@@ -90,8 +90,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -162,8 +162,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -226,8 +226,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -235,16 +233,18 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "workspaces:Manage workspace layouts": false,
-      "markdown-importer:Open format converter": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4e7d89155d34abda",
+  "active": "276885b3623e31d2",
   "lastOpenFiles": [
     "markdown cheatsheet.md",
     "Psycology 100/The Invisible Force that shapes us/Why we lie to ourselves.md",
