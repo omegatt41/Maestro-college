@@ -60,17 +60,17 @@ In Milgram's study , the **Experimenter** says things like :
 
 ## 🔬 Studies & Experiments
 ### Study: [Name of Study]
-*   **Researcher(s):** 
-*   **Purpose/Hypothesis:** 
+*   **Researcher(s):** Milgram
+*   **Purpose/Hypothesis:** “Will people Obey and Authority Figure, even if they think they are seriously hurting people”
 *   **Methodology:** 
-*   **Results:** 
+*   **Results:** This study found that people in this experiment have lost their identity making it easier to push farther and do things they normally wouldn’t do.
 *   **Conclusions:** 
+	* People when pushed by an authority figure found that they could do things they normally wouldn’t do and if couldn’t see the victim would go even farther.
 
 ---
 
 ## 🗣 Discussion / Real-World Application
-*   How does this apply to daily life or mental health? 
-*   *Discussion points:* 
+
 
 ---
 
