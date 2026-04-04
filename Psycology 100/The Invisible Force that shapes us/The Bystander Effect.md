@@ -6,7 +6,7 @@ date: 2026-03-31
 topics: Psych-100
 ---
 
-# 2026-03-31 - The Bystander Effect
+# 2026-03-31 - [[The Bystander Effect]]
 
 ## 📌 Overview
 *   **Key Themes:** **Bystander effect** = when people are _less likely to help_ a person in trouble **when other people are present** than when they’re alone.
@@ -18,7 +18,7 @@ topics: Psych-100
 ---
 
 ## 🧠 Main Terms & Concepts
-*   **Bystander effect:** - People are _less likely_ and _slower_ to help someone in trouble **when other people are present** than when they are alone.
+*   **[[Bystander effect]]:** - People are _less likely_ and _slower_ to help someone in trouble **when other people are present** than when they are alone.
 *   **Diffusion of responsibility** - When more people are around, the _feeling of responsibility_ to help is **spread out** across everyone, so each individual feels **less personally responsible** and is less likely to act.
 
 ---

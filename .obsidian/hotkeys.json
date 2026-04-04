@@ -24,5 +24,21 @@
       ],
       "key": "Numpad1"
     }
+  ],
+  "properties:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "editor:toggle-fold-properties": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad3"
+    }
   ]
 }

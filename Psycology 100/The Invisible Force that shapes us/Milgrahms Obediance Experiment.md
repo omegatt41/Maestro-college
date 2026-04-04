@@ -6,7 +6,7 @@ date: 2026-03-30
 topics: Milgrahms Obediance Experiment
 ---
 
-# 2026-03-30 - Milgram's Obediance Experiment (1961) The Obediance Trap
+# 2026-03-30 - [[Milgram's Obediance Experiment]] (1961) The Obediance Trap
 
 ## 📌 Overview
 *   **Key Themes:** _“Will ordinary people keep obeying an authority figure, even when they believe they’re seriously hurting someone?”_
@@ -16,10 +16,11 @@ topics: Milgrahms Obediance Experiment
 		* Teacher - The real participant pressing "SHOCKS"
 		* Learner - The person suppsedly reciveing the shocks
 *   **Key Theorists/Researchers:** 
-	* Milgram
-* **Agentic state** - a mental state where you see yourself less as an independent person and more as an **agent** carrying out someone else’s orders.In Milgram’s study, lots of participants said things like "I didn’t want to hurt him, but **you** said I had to continue.”  That’s the agentic state in action.
-* **Social role** = a set of expectations for how a person in a certain position _should_ behave (like “guard,” “teacher,” “student,” “boss,” “parent”).
-* **Situational Factors**: Small changes in the situation that change obedience allot
+	**[[Milgram]]**
+# Key Definitons
+* **[[Agentic state]]** - a mental state where you see yourself less as an independent person and more as an **agent** carrying out someone else’s orders.In Milgram’s study, lots of participants said things like "I didn’t want to hurt him, but **you** said I had to continue.”  That’s the agentic state in action.
+* **[[Social role]]** = a set of expectations for how a person in a certain position _should_ behave (like “guard,” “teacher,” “student,” “boss,” “parent”).
+* **[[Situational Factors]]**: Small changes in the situation that change obedience allot
 	* Proximity: 
 		* How close the authority is to you
 		* How close the victim is to you
@@ -39,11 +40,11 @@ topics: Milgrahms Obediance Experiment
 ---
 
 ## 🧠 Main Concepts & Definitions
-*   **Authority:** when someone has _legitimate power_ over you in a situation  (teacher, boss, doctor, police officer, etc.)
+*   **[[Authority]]:** when someone has _legitimate power_ over you in a situation  (teacher, boss, doctor, police officer, etc.)
 	* Example: If your **friend** says, “Stay late and finish this report,” you might ignore them.  
 	If your **boss** says it, you probably take it seriously. That’s authority.
 
-*   **Obedience:** when you **change your behavior** because someone                 with authority gives you a **direct order**.
+*   **[[Obedience]]:** when you **change your behavior** because someone                 with authority gives you a **direct order**.
 	* Everyday examples:
 
 - A boss says: “Send that email now.” → you do it.
