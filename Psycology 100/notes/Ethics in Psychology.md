@@ -9,19 +9,26 @@ date: 2026-04-03
 topics: Psych-100
 ---
 
-# 2026-04-03 - Untitled
+# 2026-04-03 - Ethics in psychology
 
 ## 📌 Overview
-*   **Key Themes:** 
+*   **Key Themes:** Two Key studies pushed psychology to change
+		* [[Milgram's Obedience Experiment]](electric shocks)
+		* [[The Stanford prison experiment]](Guards vs Prisoners)
 *   **Relevant Biological Processes:** 
 *   **Key Theorists/Researchers:** 
 
 ---
 
 ## 🧠 Main Terms & Concepts
-*   **Concept 1:** Definition and explanation.
-*   **Concept 2:** Definition and explanation.
-
+*   **Clear Right to widthdraw:** Participants can stop their participation at any time without any reason, without penalty or pressure
+*   **Informed Consent:** Before the study starts, the people are clearly told.
+	* In general what the study is about
+	* What they’ll be asked to do
+	* Risks or discomforts 
+	* That participation is voluntary and can withdraw at any time they wish.(consent is in writing)or In legal Documentation
+* **Debrief:** Participants at the end are debriefed, and told about any deception that was used to prevent Eskew test results
+- Today most studies must be approved by the International Review Board
 ---
 
 ## 🔬 Studies & Experiments
