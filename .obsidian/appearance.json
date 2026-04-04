@@ -1,0 +1,17 @@
+{
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Japanese Font Support",
+    "Notebook Backgrounds"
+  ],
+  "accentColor": "#5ca6f5",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

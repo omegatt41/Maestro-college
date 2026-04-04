@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "templater-obsidian:insert-templater",
+    "editor:insert-table",
+    "editor:insert-codeblock",
+    "markdown:add-metadata-property"
+  ]
+}

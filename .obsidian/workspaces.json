@@ -1,0 +1,254 @@
+{
+  "workspaces": {
+    "Maestro": {
+      "main": {
+        "id": "f4ed75e6c31526ce",
+        "type": "split",
+        "children": [
+          {
+            "id": "b45ac1a3dae44e02",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81b9acd1badf9379",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Psycology 100/The Invisible Force that shapes us/Social influence in the digital age.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Social influence in the digital age"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a6ac59236a61d7e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "f84ed16ecf1d5c2c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63d7808dca16d239",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "c74c3582ae3646e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "03845b9e76dba06a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "949d0e1b269fe8ad",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "eb35b86c240498c6",
+        "type": "split",
+        "children": [
+          {
+            "id": "8635912f4360366b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3982507854c6b444",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Psycology 100/The Invisible Force that shapes us/Social influence in the digital age.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Social influence in the digital age"
+                }
+              },
+              {
+                "id": "e99ce57d12cb213f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Psycology 100/The Invisible Force that shapes us/Social influence in the digital age.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Social influence in the digital age"
+                }
+              },
+              {
+                "id": "4e7d89155d34abda",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Psycology 100/The Invisible Force that shapes us/Social influence in the digital age.md",
+                    "followCursor": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Social influence in the digital age"
+                }
+              },
+              {
+                "id": "f82f41dfafb3c1b8",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "b86653e87ad439fd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "54ebaf8391232f61",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Psycology 100/The Invisible Force that shapes us/Social influence in the digital age.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "9f3cd5b659ca0a86",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "276885b3623e31d2",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 7
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templater-obsidian:Templater": false,
+          "obsidian-git:Open Git source control": false,
+          "templates:Insert template": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "workspaces:Manage workspace layouts": false,
+          "markdown-importer:Open format converter": false
+        }
+      },
+      "active": "276885b3623e31d2",
+      "mtime": "2026-04-03T20:14:45-04:00"
+    }
+  },
+  "active": "Maestro"
+}
