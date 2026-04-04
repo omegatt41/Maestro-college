@@ -151,14 +151,14 @@ You suggested changes that match modern APA ethics:
 **Q:** What is **debriefing**?  
 **A:** Explaining the true purpose of the study at the end, revealing any deception, reassuring participants (e.g., no one was harmed), and answering questions.
 
-**#flashcards**  
-**Q:** What is **minimal risk / risk–benefit (ethics cost)**?::  
+**Flashcards**  
+**Q:** What is **minimal risk / risk–benefit (ethics cost)**  
 **A:** Don’t expose people to more harm than everyday life unless there’s a strong reason and strong protections; emotional stress counts as real risk.
 
-**Flashcard 6 – CIDER mnemonic** 🍎  
-**Q:** What does **CIDER** stand for in research ethics?  
-**A:**
+**Flashcards 6 – CIDER mnemonic** 🍎
 
+**Q:** What does **CIDER** stand for in research ethics?
+**A:**
 - **C** – Consent (informed consent)
 - **I** – IRB (review board)
 - **D** – Debrief

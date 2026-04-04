@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycology 100/notes/Ethics in Psychology.md",
+                "file": "Psycology 100/notes/Me v.s. The System.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ethics in Psychology"
+              "title": "Me v.s. The System"
             }
           }
         ]
@@ -223,10 +223,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Psycology 100/notes/Ethics in Psychology.md"
+                "file": "Psycology 100/notes/Me v.s. The System.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Ethics in Psychology"
+              "title": "File properties for Me v.s. The System"
             }
           }
         ],
@@ -252,14 +252,16 @@
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
   "active": "03c2e172ac4e2ef1",
   "lastOpenFiles": [
+    "Psycology 100/notes/Ethics in Psychology.md",
+    "Psycology 100/notes/Me v.s. The System.md",
     "Psycology 100/notes/Social influence in the digital age.md",
     "Psycology 100/notes/Milgrahms Obediance Experiment.md",
-    "Psycology 100/notes/Ethics in Psychology.md",
     "_Templates/1.00.Lecture notes template.md",
     "Psycology 100/notes/Why we lie to ourselves.md",
     "Psycology 100/notes/The power of the crowd.md",
@@ -289,7 +291,6 @@
     "_Templates/x_DataviewJS Quote Snippet.md",
     "_Templates/x_Dataview Table Snippet.md",
     "_Templates/x_Book Front Matter Snippet.md",
-    "_Templates/x_Back Matter Snippet.md",
     "_Templates"
   ]
 }
