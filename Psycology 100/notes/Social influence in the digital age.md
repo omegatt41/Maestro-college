@@ -12,7 +12,7 @@ date: 2026-04-03
 topics: Psych-100, Social influence
 ---
 
-# 2026-04-03 - 📌  [[Social Influence in the Digital Age]]
+# 2026-04-03 - 📌  [[Social influence in the digital age]]
 *   **Key Themes:** Modern media constantly uses a small set of predictable psychological levers (Cialdini’s six principles) to nudge our choices — and once you can _see_ them, you can resist manipulation and choose more freely.
 
 *   **Key Theorists/Researchers:** 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycology 100/The Invisible Force that shapes us/The Bystander Effect.md",
+                "file": "Psycology 100/notes/Untitled.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Bystander Effect"
+              "title": "Untitled"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psycology 100/The Invisible Force that shapes us/The Bystander Effect.md",
+                "file": "Psycology 100/notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Bystander Effect"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psycology 100/The Invisible Force that shapes us/The Bystander Effect.md",
+                "file": "Psycology 100/notes/Untitled.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Bystander Effect"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Psycology 100/The Invisible Force that shapes us/The Bystander Effect.md"
+                "file": "Psycology 100/notes/Untitled.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -223,10 +223,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Psycology 100/The Invisible Force that shapes us/The Bystander Effect.md"
+                "file": "Psycology 100/notes/Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Bystander Effect"
+              "title": "File properties for Untitled"
             }
           }
         ]
@@ -257,28 +257,31 @@
   },
   "active": "03c2e172ac4e2ef1",
   "lastOpenFiles": [
-    "Psycology 100/The Invisible Force that shapes us/Social influence in the digital age.md",
-    "Psycology 100/The Invisible Force that shapes us/Milgrahms Obediance Experiment.md",
-    "Psycology 100/The Invisible Force that shapes us/The Bystander Effect.md",
-    "Authority.md",
-    "markdown cheatsheet.md",
-    "Psycology 100/The Invisible Force that shapes us/Why we lie to ourselves.md",
-    "Psycology 100/The Invisible Force that shapes us/The Stanford prison experiment.md",
-    "Psycology 100/The Invisible Force that shapes us/The power of the crowd.md",
-    "Psycology 100/The Invisible Force that shapes us/The Conformity  effect.md",
-    "Psycology 100/The Invisible Force that shapes us",
-    "Psycology 100/Scientific Method-Psychology.md",
+    "_Templates/1.00.Lecture notes template.md",
+    "Psycology 100/notes/Untitled.md",
+    "Psycology 100/notes/Why we lie to ourselves.md",
+    "Psycology 100/notes/The power of the crowd.md",
+    "Psycology 100/notes/The Conformity  effect.md",
+    "Psycology 100/notes/Milgrahms Obediance Experiment.md",
     "Psycology 100/notes to be organized.md",
+    "Computer Science/0.project ideas",
+    "Authority.md",
+    "Psycology 100/notes/The Bystander Effect.md",
+    "Psycology 100/notes/Social influence in the digital age.md",
+    "markdown cheatsheet.md",
+    "Psycology 100/notes/The Stanford prison experiment.md",
+    "Psycology 100/notes",
+    "Psycology 100/Scientific Method-Psychology.md",
     "Psycology 100",
-    "Computer Science/Python/urllib3 cheatsheet.md",
-    "Computer Science/Python/Scapy cheatsheet.md",
-    "Computer Science/Python/python3 requests cheatsheet.md",
-    "Computer Science/Python/Python-Core cheatsheet.md",
-    "Computer Science/Python/Python 101.md",
-    "Computer Science/Python/BeautifulSoup- cheatsheet.md",
-    "Computer Science/Python",
-    "Computer Science/javascript",
-    "Computer Science/css",
+    "Computer Science/1.Python/urllib3 cheatsheet.md",
+    "Computer Science/1.Python/Scapy cheatsheet.md",
+    "Computer Science/1.Python/python3 requests cheatsheet.md",
+    "Computer Science/1.Python/Python-Core cheatsheet.md",
+    "Computer Science/1.Python/Python 101.md",
+    "Computer Science/1.Python/BeautifulSoup- cheatsheet.md",
+    "Computer Science/1.Python",
+    "Computer Science/4.javascript",
+    "Computer Science/3.css",
     "Computer Science/ASCII referance.md",
     "Computer Science",
     "_Templates/x_Front Matter Snippet.md",
@@ -287,8 +290,6 @@
     "_Templates/x_Dataview Table Snippet.md",
     "_Templates/x_Book Front Matter Snippet.md",
     "_Templates/x_Back Matter Snippet.md",
-    "_Templates/OSCP Report Template V2.md",
-    "_Templates/OSCP Report Template V1.md",
     "_Templates"
   ]
 }

@@ -5,70 +5,14 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 5,
-    "rules": [
-      {
-        "rule": " - Maps of Content",
-        "icon": "BoBxGlobeAlt",
-        "for": "folders",
-        "order": 0
-      },
-      {
-        "rule": " - Projects",
-        "icon": "BoBxsPen",
-        "for": "folders",
-        "order": 1
-      },
-      {
-        "rule": " - Areas",
-        "icon": "BoBxsPackage",
-        "for": "folders",
-        "order": 2
-      },
-      {
-        "rule": " - Resources",
-        "icon": "BoBxsBook",
-        "for": "folders",
-        "order": 3
-      },
-      {
-        "rule": " - Fleeting",
-        "icon": "BoBxsPencil",
-        "for": "folders",
-        "order": 4
-      },
-      {
-        "rule": "- Daily",
-        "icon": "BoBxCalendarEvent",
-        "for": "folders",
-        "order": 5
-      },
-      {
-        "rule": "- Meta",
-        "icon": "BoBxSelection",
-        "for": "folders",
-        "order": 6
-      },
-      {
-        "rule": "- Templates",
-        "icon": "BoBxRuler",
-        "for": "everything",
-        "order": 7
-      },
-      {
-        "rule": "- Archives",
-        "icon": "BoBxsArchive",
-        "for": "folders",
-        "order": 9
-      },
-      {
-        "rule": "- Permanent",
-        "icon": "BoBxsFile",
-        "for": "everything",
-        "order": 8
-      }
+    "recentlyUsedIcons": [
+      "LiListTodo",
+      "LiNotepadTextDashed",
+      "LiNotepadText",
+      "LiNotebookTabs"
     ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
     "extraMargin": {
       "top": 0,
       "right": 2,
@@ -88,5 +32,13 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Psycology 100/notes/Milgrahms Obediance Experiment.md": "LiNotebookTabs",
+  "Psycology 100/notes/Social influence in the digital age.md": "LiNotepadText",
+  "Psycology 100/notes/The Bystander Effect.md": "LiNotepadTextDashed",
+  "Psycology 100/notes/The Conformity  effect.md": "LiNotepadTextDashed",
+  "Psycology 100/notes/The power of the crowd.md": "LiNotepadTextDashed",
+  "Psycology 100/notes/The Stanford prison experiment.md": "LiNotepadTextDashed",
+  "Psycology 100/notes/Why we lie to ourselves.md": "LiNotepadTextDashed",
+  "Psycology 100/notes to be organized.md": "LiListTodo"
 }
