@@ -44,9 +44,9 @@
   "templater-obsidian:jump-to-next-cursor-location": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
-      "key": "."
+      "key": "Enter"
     }
   ],
   "obsidian-completr:completr-jump-to-next-snippet-placeholder": [
@@ -56,5 +56,7 @@
       ],
       "key": "Enter"
     }
-  ]
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "editor:follow-link": []
 }
