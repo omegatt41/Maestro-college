@@ -1,4 +1,4 @@
-**Milgram’s Obedience Experiment (1961)**
+Th**Milgram’s Obedience Experiment (1961)**
 
 - Goal: See **how far ordinary people would go in harming another person** when ordered by an authority figure.
     
