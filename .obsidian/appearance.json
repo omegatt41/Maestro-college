@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "Catppuccin",
   "interfaceFontFamily": "JetBrains Mono NL",
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono NL",
@@ -13,5 +13,6 @@
   "accentColor": "#5ca6f5",
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "showViewHeader": false
 }

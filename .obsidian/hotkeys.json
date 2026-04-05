@@ -40,5 +40,21 @@
       ],
       "key": "Numpad3"
     }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }
