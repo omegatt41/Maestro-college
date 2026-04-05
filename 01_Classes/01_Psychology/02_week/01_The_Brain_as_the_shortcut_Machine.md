@@ -105,6 +105,7 @@ These shortcuts are **fast and usually helpful**, but they can lead to **predict
 	    - They support what you already think
 	    - You end up extra sure crime is exploding, even if statistics show otherwise
 	- Your brains not lying to you its just using shortcuts that feel  right, but can be misleading.
+- **Combat this by** before reacting to the new listing look at all the facts and make sure they are accurate
 
 ---
 
@@ -116,4 +117,18 @@ These shortcuts are **fast and usually helpful**, but they can lead to **predict
 
 ---
 ## 📝 Summary (Active Recall)
-*Reflect on the lecture and summarize in your own words. Create a question you can use for flashcards later.*
+Lesson - - 
+	- Heuristics and biases: 
+		- **Heuristics** - A mental shortcut for fast decisions with minimal effort
+		- **Bias** - a predictable error in judgment that comes from using a heuristic shortcut
+		- our brain is biased for choosing speed over accuracy(speed/accuracy trade off)
+		Three main heuristics:
+		**R.A.C.** → Representativeness, Availability, Confirmation/bias 
+	Three main heuristics(R.A.C.):
+		- **Representativeness Heuristic:** stereotype-looks-like thinking
+		- **Availability Heuristics:** Easy to remember feels common
+		- **Confirmation/Bias Heuristics** Feeding what you already believe
+		- NOTE: if i ever feel like “this is obviously true”, this is a good time to stop and ask questions “Is this a shortcut thing”
+## Overall Conclusion;
+- Our minds are shortcut machines: Heuristics help our minds decide quickly, but they also create predictable biases.
+- Knowing R.A.C.(Representativeness, Availability, Confirmation) Helps us know when our mind is deciding quickly and to watch for mistakes as sometime our thinking is flawed
