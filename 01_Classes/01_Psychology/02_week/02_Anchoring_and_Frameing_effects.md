@@ -1,5 +1,7 @@
 ---
-cssclasses: [daily, Saturday]
+cssclasses:
+  - Saturday
+  - daily
 type: lecture-note
 class: "[[Psychology 100]]"
 tags:
@@ -15,7 +17,12 @@ topics: Psych-100
 
 # <u>2026-04-05 - 02_Anchoring_and_Frameing_effects</u>
 
+^efa2db
+
 ## 📌 Overview
+
+
+
 *   **Key Themes:** A.P.E.(Anchor, Pull, Estimate)
 *   **Relevant Biological Processes:** 
 *   **Key Theorists/Researchers:**
@@ -25,10 +32,16 @@ topics: Psych-100
 ---
 
 ## 🧠 Main Terms & Concepts
-*   **Anchoring Effect:** When an initial number(or piece of info)pulls our estimate or judgment towards it, even if the number is random, or not very relevant.(numbers that pull estimates)
-*   **Framing Effect:** When the wording or how something is described changes how we feel or what we choose, Even though actual facts are the same → 90% Fat free, 10% Fat :: 90% Fat free feels healthier
+
+
+
+* hi   **Anchoring Effect**  When an initial number(or piece of info)pulls our estimate or judgment towards it, even if the number is random, or not very relevant.(numbers that pull estimates) 
+
+
+*   **Framing** : When the wording or how something is described changes how we feel or what we choose, Even though actual facts are the same → 90% Fat free, 10% Fat ← → 90% Fat free feels healthier
 	(words that shape how the situation feels)
 * Anchor effect and Framing effect are cognitive biases that influence how people process information and make decisions
+
 ---
 
 ## 🔬 Studies & Experiments
@@ -41,7 +54,7 @@ topics: Psych-100
 	* High Anchor → High Estimate
 	* Low Anchor → Low Estimate
 		* Either case Framing is slight change in wording to change perception of the information
-*   **Conclusions:** 
+*   **Conclusions**: 
 	Human judgment is systemically biased by context,  especially by Anchors(Starting numbers) and Frames(Wording that  changes context), Even when those things are irrelevant 
 		- People dont come in Neutral
 		- People dont respond to outcomes “purely by facts”

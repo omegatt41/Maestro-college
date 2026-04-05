@@ -11,7 +11,7 @@ topics: The Stanford Prison Experiment
 *   **Key Themes:** Prison Guards vs Inmates
 *   **Relevant Biological Processes:** Who,When,Where,Purpose
 	* In the stanford Experiment situational roles were a powerful behavior shaping situation(not just personality)
-*   **Key Theorists/Researchers:** Philip zimbardo at Stanford University
+*   **Key Theorists/Researchers:** [[Philip zimbardo^]] at Stanford University
 	* Mock prison in Stanfords psychology building
 
 ---

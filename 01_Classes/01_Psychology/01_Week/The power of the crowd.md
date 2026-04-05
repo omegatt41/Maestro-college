@@ -23,24 +23,24 @@ topics: Psych-100, The power of the crowd,
 	* When anonymous, people feel:
 		* less publicly self-aware= "No one can single me out"
 		* Less accountable = "They cant prove it was me"
-		* This amplifys whateve the situations pushing:
-			* can lead to antisocial acts(vandalism, aggession)
-			* but can also, in some cases,free people to do positive, brave things if the group pushes that away
+		* This amplifies whatever the situations pushing:
+			* can lead to antisocial acts(vandalism, aggression)
+			* but can also, in some cases, free people to do positive, brave things if the group pushes that away
 *   **deindividuation:** when people feel **less like a unique individual** and more like an **anonymous part of a group**, which reduces self-awareness and personal accountability, and can lead to more extreme behavior than usual.
-* Psychologist often seperate two things:
-	* Public self-awarness = "What do other people think of me right now?"
-	* Private self-awarness = "What do i  think about myself right now?"
+* Psychologist often separate two things:
+	* Public self-awareness = "What do other people think of me right now?"
+	* Private self-awareness = "What do i  think about myself right now?"
 		* "am i living up to my own standards?"
 * In crowds with anonymity:
-	* Public self-awarness drops,private self-awareness can also drop
-* **Contaigon:** - emotions and actions spread quickly(one rock thrown, many rocks).
+	* Public self-awareness drops, private self-awareness can also drop
+* **Contagion:** - emotions and actions spread quickly(one rock thrown, many rocks).
 * **Suggestibility:** - People are more easily led by strong voices or emotions in the crowd.
 * Result: Ordinary people may do things in a crowd they'd never do alone.
 
 ---
 
 ## 🔬 Studies & Experiments
-### Study:<a color=’red’> [Le Bon's crowd psychology: "Group Mind"]</a>
+### Study: [<font color=red> Bon's crowd psychology: "Group Mind"</font>]
 *   **Researcher(s):**Le Bon 
 *   **Purpose/Hypothesis:**   
 	* In intense crowds (riots, huge rallies, etc.), people can feel less like **individuals** and more like part of a **single group mind**
@@ -64,22 +64,8 @@ topics: Psych-100, The power of the crowd,
 	- - **Anonymity → less “I” + less accountability → deindividuation → more extreme behavior**
     
 
-## **5. Real-life connections**
-
-- Example from _my_ life:
-    
-- Where I notice this in others / society:
-    
-- How this might affect my choices in the future:
-    
-
 ---
 
-## ❓ Unanswered Questions / Clarification
-*   [ ] 
-
-## 🔗 Related Notes
-*   
 
 ---
 ## 📝 Summary (Active Recall)

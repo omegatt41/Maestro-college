@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
+                "file": "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The power of the crowd"
+              "title": "Prospect Theory and Risk"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psycology 100/notes/Ethics in Psychology.md",
+                "file": "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ethics in Psychology"
+              "title": "Backlinks for Prospect Theory and Risk"
             }
           },
           {
@@ -214,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Classes/01_Psychology/01_Week/The power of the crowd.md"
+                "file": "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The power of the crowd"
+              "title": "File properties for Prospect Theory and Risk"
             }
           },
           {
@@ -269,10 +269,13 @@
   },
   "active": "7e8ae15e2788a9fc",
   "lastOpenFiles": [
-    "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
     "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md",
-    "03_Templates/1.0 Psych-Template.md",
+    "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md",
     "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
+    "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md",
+    "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
+    "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
+    "03_Templates/1.0 Psych-Template.md",
     "00_Dashboard/Vocabulary_wordlist.md",
     "04_Inbox",
     "02_Lectures",
@@ -286,7 +289,6 @@
     "999_markdown cheatsheet.md",
     "01_Classes/01_Psychology/02_week",
     "01_Classes/01_Psychology/01_Week/Why we lie to ourselves.md",
-    "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
     "01_Classes/01_Psychology/01_Week/Social influence in the digital age.md",
     "01_Classes/01_Psychology/01_Week/Me v.s. The System.md",
     "01_Classes/01_Psychology/01_Week/Ethics in Psychology.md",
@@ -296,14 +298,12 @@
     "01_Classes/01_Psychology/notes to be organized.md",
     "01_Classes/09_Computer_Science_class/0.project ideas",
     "Authority.md",
-    "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md",
     "01_Classes/01_Psychology/01_Week",
     "01_Classes",
     "01_Classes/09_Computer_Science_class/1.Python/urllib3 cheatsheet.md",
     "01_Classes/09_Computer_Science_class/1.Python/Scapy cheatsheet.md",
     "01_Classes/09_Computer_Science_class/1.Python/python3 requests cheatsheet.md",
     "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
-    "01_Classes/09_Computer_Science_class/1.Python/Python 101.md",
     "01_Classes/09_Computer_Science_class/1.Python"
   ]
 }
