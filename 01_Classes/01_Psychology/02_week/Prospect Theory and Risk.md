@@ -1,7 +1,5 @@
 ---
 cssclasses:
-    - daily
-    - Saturday
 type: lecture-note
 class: "[[Psychology 100]]"
 tags:
@@ -25,17 +23,22 @@ topics: Psych-100
 *   **Conclusions:** 
 
 ---
-## 🧠 Main Terms & Concepts
-S shaped value function:
-* Reference Dependent - Curve crosses zero at the reference point(no gain/loss there)
-* Concave for gains - (above the reference point):
+## 🧠 Main Terms & Concepts:
+
+* **Prospect Theory:** People evaluate outcomes as gains or losses relative to a reference point, not in absolute terms.
+* **Reference Point:** Your mental “Status quo” or expectations (e.g. what you thought youd get or lose)
+
+* **
+* S shaped value function:
+* **Reference Dependent** - Curve crosses zero at the reference point(no gain/loss there)
+* **Concave for gains** - (above the reference point):
 	* Each extra gain feels less special than the last (dimished sesitivity)
-* Convex for Loss -(Below the reference point):
+* **Convex for Loss** -(Below the reference point):
 	* Each extra loss hurst but the last huts the most
 	* The curve is steeper for losses than it is for gains
-Loss Aversion:
+**Loss Aversion**:
 	A loss of $X hurts more than a gain of $X
-Risk Preferences - Gains vs losses
+**Risk Preferences** - Gains vs losses
 	In the gain domain things framed as wins/saves:
 		- people are typically risk-averse
 		- Prefer sure smaller gains than risky large gains
