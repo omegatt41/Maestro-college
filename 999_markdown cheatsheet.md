@@ -12,7 +12,7 @@
 1. list
 2. list2
 3. list 3
-[[markdown cheatsheet]]
+[[999_markdown cheatsheet]]
 [link](http://url.com)
 ==highlight==
 ~~strike through~~

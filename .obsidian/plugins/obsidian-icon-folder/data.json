@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLayoutTemplate",
       "LiListTodo",
       "LiNotepadTextDashed",
       "LiNotepadText",
@@ -33,14 +34,15 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Psycology 100/notes/Milgrahms Obediance Experiment.md": "LiNotebookTabs",
-  "Psycology 100/notes/Social influence in the digital age.md": "LiNotepadText",
-  "Psycology 100/notes/The Bystander Effect.md": "LiNotepadTextDashed",
-  "Psycology 100/notes/The Conformity  effect.md": "LiNotepadTextDashed",
-  "Psycology 100/notes/The power of the crowd.md": "LiNotepadTextDashed",
-  "Psycology 100/notes/The Stanford prison experiment.md": "LiNotepadTextDashed",
-  "Psycology 100/notes/Why we lie to ourselves.md": "LiNotepadTextDashed",
-  "Psycology 100/notes to be organized.md": "LiListTodo",
-  "Psycology 100/notes/Ethics in Psychology.md": "LiNotepadTextDashed",
-  "Psycology 100/notes/Me v.s. The System.md": "LiNotepadTextDashed"
+  "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md": "LiNotebookTabs",
+  "01_Classes/01_Psychology/01_Week/Social influence in the digital age.md": "LiNotepadText",
+  "01_Classes/01_Psychology/01_Week/The Bystander Effect.md": "LiNotepadTextDashed",
+  "01_Classes/01_Psychology/01_Week/The Conformity  effect.md": "LiNotepadTextDashed",
+  "01_Classes/01_Psychology/01_Week/Ethics in Psychology.md": "LiNotepadTextDashed",
+  "01_Classes/01_Psychology/01_Week/Me v.s. The System.md": "LiNotepadTextDashed",
+  "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md": "LiNotepadTextDashed",
+  "01_Classes/01_Psychology/01_Week/Why we lie to ourselves.md": "LiNotepadTextDashed",
+  "01_Classes/01_Psychology/01_Week/The power of the crowd.md": "LiNotepadTextDashed",
+  "01_Classes/01_Psychology/notes to be organized.md": "LiListTodo",
+  "03_Templates": "LiLayoutTemplate"
 }

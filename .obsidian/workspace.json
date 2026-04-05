@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycology 100/Week 2/The Brain as the shortcut Machine.md",
+                "file": "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Brain as the shortcut Machine"
+              "title": "01_The_Brain_as_the_shortcut_Machine"
             }
           }
         ]
@@ -223,10 +223,30 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Psycology 100/Week 2/The Brain as the shortcut Machine.md"
+                "file": "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Brain as the shortcut Machine"
+              "title": "File properties for 01_The_Brain_as_the_shortcut_Machine"
+            }
+          },
+          {
+            "id": "e2da70edef03843d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "d95362973649ad71",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ],
@@ -252,44 +272,47 @@
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false
     }
   },
   "active": "7e8ae15e2788a9fc",
   "lastOpenFiles": [
-    "Psycology 100/Week 2",
-    "Psycology 100/Week 2/The Brain as the shortcut Machine.md",
-    "Psycology 100/notes/Why we lie to ourselves.md",
-    "Psycology 100/notes/The power of the crowd.md",
-    "Psycology 100/notes/Social influence in the digital age.md",
-    "Psycology 100/notes/Me v.s. The System.md",
-    "Psycology 100/notes/Ethics in Psychology.md",
-    "Psycology 100/notes/The Conformity  effect.md",
-    "Psycology 100/notes/The Bystander Effect.md",
-    "Psycology 100/notes/Milgrahms Obediance Experiment.md",
-    "_Templates/1.00.Lecture notes template.md",
-    "Psycology 100/notes to be organized.md",
-    "Computer Science/0.project ideas",
+    "04_Inbox",
+    "02_Lectures",
+    "00_Dashboard/Dashboard.md",
+    "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
+    "01_Classes/01_Psychology/00_Methodology",
+    "README.md",
+    "01_Classes/01_Psychology/00_Methodology/0_Scientific_Method_Psychology.md",
+    "01_Classes/01_Psychology",
+    "00_Dashboard.md",
+    "00_Dashboard",
+    "999_markdown cheatsheet.md",
+    "01_Classes/01_Psychology/02_week",
+    "01_Classes/01_Psychology/01_Week/Why we lie to ourselves.md",
+    "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
+    "01_Classes/01_Psychology/01_Week/Social influence in the digital age.md",
+    "01_Classes/01_Psychology/01_Week/Me v.s. The System.md",
+    "01_Classes/01_Psychology/01_Week/Ethics in Psychology.md",
+    "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
+    "01_Classes/01_Psychology/01_Week/The Bystander Effect.md",
+    "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
+    "03_Templates/1.00.Lecture notes template.md",
+    "01_Classes/01_Psychology/notes to be organized.md",
+    "01_Classes/09_Computer_Science_class/0.project ideas",
     "Authority.md",
-    "markdown cheatsheet.md",
-    "Psycology 100/notes/The Stanford prison experiment.md",
-    "Psycology 100/notes",
-    "Psycology 100/Scientific Method-Psychology.md",
-    "Psycology 100",
-    "Computer Science/1.Python/urllib3 cheatsheet.md",
-    "Computer Science/1.Python/Scapy cheatsheet.md",
-    "Computer Science/1.Python/python3 requests cheatsheet.md",
-    "Computer Science/1.Python/Python-Core cheatsheet.md",
-    "Computer Science/1.Python/Python 101.md",
-    "Computer Science/1.Python/BeautifulSoup- cheatsheet.md",
-    "Computer Science/1.Python",
-    "Computer Science/4.javascript",
-    "Computer Science/3.css",
-    "Computer Science/ASCII referance.md",
-    "Computer Science",
-    "_Templates/x_Front Matter Snippet.md",
-    "_Templates/x_E-book Back Matter Snippet.md",
-    "_Templates/x_DataviewJS Quote Snippet.md",
-    "_Templates"
+    "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md",
+    "01_Classes/01_Psychology/01_Week",
+    "01_Classes",
+    "01_Classes/09_Computer_Science_class/1.Python/urllib3 cheatsheet.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Scapy cheatsheet.md",
+    "01_Classes/09_Computer_Science_class/1.Python/python3 requests cheatsheet.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Python 101.md",
+    "01_Classes/09_Computer_Science_class/1.Python/BeautifulSoup- cheatsheet.md",
+    "01_Classes/09_Computer_Science_class/1.Python",
+    "01_Classes/09_Computer_Science_class/4.javascript",
+    "01_Classes/09_Computer_Science_class/ASCII referance.md"
   ]
 }

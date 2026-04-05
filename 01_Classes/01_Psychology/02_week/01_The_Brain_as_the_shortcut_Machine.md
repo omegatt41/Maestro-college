@@ -1,16 +1,21 @@
 ---
+cssclasses:
+  - daily
+  - Wednesday
 type: lecture-note
 class: "[[Psychology 100]]"
 tags:
   - psychology
   - The_brain_as_a_shortcut_machine
+  - Bais
+  - Heuristics
   - lecture
   - 2026-04-04
 date: 2026-04-04
-topics: Psych-100
+topics: Psych-100, Heuristics, Bias
 ---
 
-# 2026-04-04 - The Brain as the shortcut Machine
+# <u>2026-04-04 - The Brain as the shortcut Machine</u>
 
 ## 📌 Overview
 *   **Key Themes:** The Brain
@@ -23,13 +28,15 @@ topics: Psych-100
 ---
 
 ## 🧠 Main Terms & Concepts
-* **Heuristic:** A mental shortcut our brain uses to make quick decisions without doing full analysis
+* **Heuristic:** A mental shortcut our brain uses to make quick decisions without doing full analysis →
 	* Mental Shortcut
 	* A tool for decision making
 	* They’re fast and often useful, but frequently lead to mistakes
-* **Biases:** Dfinition and explanation.
+* **Bias:** A predictable mistake in judgment that comes from relying on a shortcut. →
 	* Systemic error
 	* Arises from uses of Heuristics
+* Heuristic → Shortcut :: bias → The patterned error it can cause
+*  **Representativeness
 
 ---
 
