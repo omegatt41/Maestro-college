@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/01_Psychology/02_week/Inattentional Blindness.md",
+                "file": "01_Classes/01_Psychology/02_week/The Dunning-Kruger_effect.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inattentional Blindness"
+              "title": "The Dunning-Kruger_effect"
             }
           }
         ],
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271
+    "width": 271,
+    "collapsed": true
   },
   "right": {
     "id": "eb35b86c240498c6",
@@ -215,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Classes/01_Psychology/02_week/Inattentional Blindness.md"
+                "file": "01_Classes/01_Psychology/02_week/The Dunning-Kruger_effect.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Inattentional Blindness"
+              "title": "File properties for The Dunning-Kruger_effect"
             }
           },
           {
@@ -246,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,8 +272,9 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
-    "01_Classes/01_Psychology/02_week/False Memories.md",
     "01_Classes/01_Psychology/02_week/Inattentional Blindness.md",
+    "01_Classes/01_Psychology/02_week/The Dunning-Kruger_effect.md",
+    "01_Classes/01_Psychology/02_week/False Memories.md",
     "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md",
     "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md",
     "Prospect Theory and Risk.md",
@@ -302,7 +305,6 @@
     "03_Templates/1.00.Lecture notes template.md",
     "01_Classes/01_Psychology/notes to be organized.md",
     "01_Classes/09_Computer_Science_class/0.project ideas",
-    "Authority.md",
     "01_Classes/01_Psychology/01_Week",
     "01_Classes",
     "01_Classes/09_Computer_Science_class/1.Python"
