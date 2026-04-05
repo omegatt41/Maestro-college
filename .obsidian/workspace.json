@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md",
+                "file": "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02_Anchoring_and_Frameing_effects"
+              "title": "The power of the crowd"
             }
           }
         ]
@@ -214,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md"
+                "file": "01_Classes/01_Psychology/01_Week/The power of the crowd.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 02_Anchoring_and_Frameing_effects"
+              "title": "File properties for The power of the crowd"
             }
           },
           {
@@ -269,10 +269,11 @@
   },
   "active": "7e8ae15e2788a9fc",
   "lastOpenFiles": [
-    "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
-    "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md",
-    "00_Dashboard/Vocabulary_wordlist.md",
     "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
+    "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md",
+    "03_Templates/1.0 Psych-Template.md",
+    "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
+    "00_Dashboard/Vocabulary_wordlist.md",
     "04_Inbox",
     "02_Lectures",
     "00_Dashboard/Dashboard.md",
@@ -303,7 +304,6 @@
     "01_Classes/09_Computer_Science_class/1.Python/python3 requests cheatsheet.md",
     "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
     "01_Classes/09_Computer_Science_class/1.Python/Python 101.md",
-    "01_Classes/09_Computer_Science_class/1.Python/BeautifulSoup- cheatsheet.md",
     "01_Classes/09_Computer_Science_class/1.Python"
   ]
 }

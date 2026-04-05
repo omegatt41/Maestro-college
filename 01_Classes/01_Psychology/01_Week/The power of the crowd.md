@@ -40,7 +40,7 @@ topics: Psych-100, The power of the crowd,
 ---
 
 ## 🔬 Studies & Experiments
-### Study: [Le Bon's crowd psychology: "Group Mind"]
+### Study:<a color=’red’> [Le Bon's crowd psychology: "Group Mind"]</a>
 *   **Researcher(s):**Le Bon 
 *   **Purpose/Hypothesis:**   
 	* In intense crowds (riots, huge rallies, etc.), people can feel less like **individuals** and more like part of a **single group mind**
