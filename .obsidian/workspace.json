@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Psycology 100/notes/Me v.s. The System.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Me v.s. The System",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,11 +252,10 @@
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "03c2e172ac4e2ef1",
+  "active": "63d7808dca16d239",
   "lastOpenFiles": [
     "Psycology 100/notes/Ethics in Psychology.md",
     "Psycology 100/notes/Me v.s. The System.md",
