@@ -14,5 +14,5 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "showRibbon": true,
-  "showViewHeader": false
+  "showViewHeader": true
 }

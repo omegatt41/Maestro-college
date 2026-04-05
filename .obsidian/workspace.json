@@ -22,7 +22,8 @@
               "title": "Prospect Theory and Risk"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -153,8 +154,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -178,7 +179,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Psycology 100/notes/Ethics in Psychology.md"
+                "file": "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -269,11 +270,10 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
-    "Prospect Theory and Risk.md",
-    "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md",
-    "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md",
-    "Untitled 1.md",
     "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md",
+    "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md",
+    "Prospect Theory and Risk.md",
+    "Untitled 1.md",
     "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
     "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md",
     "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
