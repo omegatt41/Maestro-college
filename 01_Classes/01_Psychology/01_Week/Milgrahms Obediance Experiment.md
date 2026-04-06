@@ -59,7 +59,7 @@ In Milgram's study , the **Experimenter** says things like :
 ---
 
 ## 🔬 Studies & Experiments
-### Study: [Name of Study]
+### Study: [The Obedience Trap(1961)]
 *   **Researcher(s):** Milgram
 *   **Purpose/Hypothesis:** “Will people Obey and Authority Figure, even if they think they are seriously hurting people”
 *   **Methodology:** 
