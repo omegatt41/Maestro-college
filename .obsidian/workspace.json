@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
+                "file": "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Conformity  effect"
+              "title": "Python-Core cheatsheet"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emotional contaig",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,8 +268,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "63d7808dca16d239",
+  "active": "c74c3582ae3646e0",
   "lastOpenFiles": [
+    "01_Classes/09_Computer_Science_class/1.Python/Python 101.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
+    "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
     "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
     "01_Classes/01_Psychology/02_week/10_Putting_it_all_together.md",
     "Untitled.md",
@@ -286,7 +290,6 @@
     "Untitled 1.md",
     "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md",
     "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
-    "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
     "03_Templates/1.0 Psych-Template.md",
     "00_Dashboard/Vocabulary_wordlist.md",
     "04_Inbox",
@@ -298,9 +301,7 @@
     "01_Classes/01_Psychology",
     "00_Dashboard.md",
     "00_Dashboard",
-    "999_markdown cheatsheet.md",
     "01_Classes/01_Psychology/02_week",
-    "01_Classes/01_Psychology/01_Week/Why we lie to ourselves.md",
     "01_Classes/09_Computer_Science_class/0.project ideas",
     "01_Classes/01_Psychology/01_Week",
     "01_Classes",
