@@ -71,6 +71,10 @@ In Milgram's study , the **Experimenter** says things like :
 
 ## 🗣 Discussion / Real-World Application
 
+- **Workplace:** boss asks for risky or unethical actions → people may obey because of authority + job security.
+    - Resistance: **stand with coworkers**, raise concerns together (peer dissent).
+- **School:** students follow teacher’s instructions even if they feel it’s unfair.
+- **Military / hierarchical organizations:** strong authority + culture of obedience can push people to follow orders that conflict with personal morals.
 
 ---
 
@@ -82,4 +86,4 @@ In Milgram's study , the **Experimenter** says things like :
 
 ---
 ## 📝 Summary (Active Recall)
-*Reflect on the lecture and summarize in your own words. Create a question you can use for flashcards later.*
+

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
+                "file": "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Python-Core cheatsheet"
+              "title": "Milgrahms Obediance Experiment"
             }
           }
         ],
@@ -86,8 +86,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,12 +267,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c74c3582ae3646e0",
+  "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/1.Python/Python 101.md",
-    "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
-    "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
+    "01_Classes/01_Psychology/notes to be organized.md",
     "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Python 101.md",
+    "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
     "01_Classes/01_Psychology/02_week/10_Putting_it_all_together.md",
     "Untitled.md",
     "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
@@ -281,7 +281,6 @@
     "01_Classes/01_Psychology/02_week/05_Selective_attention.md",
     "01_Classes/01_Psychology/02_week/03_Prospect Theory and Risk.md",
     "01_Classes/01_Psychology/02_week/09_The_Halo_and_Horn_Effects.md",
-    "01_Classes/01_Psychology/notes to be organized.md",
     "01_Classes/01_Psychology/02_week/08_Emotion_and_decision_making.md",
     "01_Classes/01_Psychology/02_week/07_The_Dunning_Kruger_effect.md",
     "01_Classes/01_Psychology/02_week/06_The_marshmellow_test.md",
