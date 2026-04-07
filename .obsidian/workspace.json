@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Templates/1.01_Programming Template.md",
+                "file": "Projects/TODO_list/Layout.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.01_Programming Template"
+              "title": "Layout"
             }
           }
         ],
@@ -215,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Templates/1.01_Programming Template.md"
+                "file": "Projects/TODO_list/Layout.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1.01_Programming Template"
+              "title": "File properties for Layout"
             }
           },
           {
@@ -269,9 +269,13 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
+    "Projects/TODO_list/requirements.md",
+    "Projects/TODO_list/Layout.md",
+    "03_Templates/1.01_Programming Template.md",
+    "Projects/TODO_list",
+    "Projects",
     "03_Templates/1.00.Lecture notes template.md",
     "03_Templates/1.0 Psych-Template.md",
-    "03_Templates/1.01_Programming Template.md",
     "01_Classes/09_Computer_Science_class/1.Python/Untitled.md",
     "Meta",
     "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
@@ -294,16 +298,12 @@
     "Untitled 1.md",
     "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md",
     "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
-    "00_Dashboard/Vocabulary_wordlist.md",
     "04_Inbox",
     "02_Lectures",
-    "00_Dashboard/Dashboard.md",
     "01_Classes/01_Psychology/00_Methodology",
     "01_Classes/01_Psychology",
     "00_Dashboard",
     "01_Classes/01_Psychology/02_week",
-    "01_Classes/09_Computer_Science_class/0.project ideas",
-    "01_Classes/01_Psychology/01_Week",
-    "01_Classes"
+    "01_Classes/09_Computer_Science_class/0.project ideas"
   ]
 }
