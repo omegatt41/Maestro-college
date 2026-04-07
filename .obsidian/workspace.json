@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
+                "file": "03_Templates/1.01_Programming Template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Milgrahms Obediance Experiment"
+              "title": "1.01_Programming Template"
             }
           }
         ],
@@ -215,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Classes/01_Psychology/01_Week/The Conformity  effect.md"
+                "file": "03_Templates/1.01_Programming Template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Conformity  effect"
+              "title": "File properties for 1.01_Programming Template"
             }
           },
           {
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -269,8 +269,13 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
-    "01_Classes/01_Psychology/notes to be organized.md",
+    "03_Templates/1.00.Lecture notes template.md",
+    "03_Templates/1.0 Psych-Template.md",
+    "03_Templates/1.01_Programming Template.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Untitled.md",
+    "Meta",
     "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
+    "01_Classes/01_Psychology/notes to be organized.md",
     "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md",
     "01_Classes/09_Computer_Science_class/1.Python/Python 101.md",
     "01_Classes/01_Psychology/01_Week/The Conformity  effect.md",
@@ -289,21 +294,16 @@
     "Untitled 1.md",
     "01_Classes/01_Psychology/01_Week/The Stanford prison experiment.md",
     "01_Classes/01_Psychology/01_Week/The power of the crowd.md",
-    "03_Templates/1.0 Psych-Template.md",
     "00_Dashboard/Vocabulary_wordlist.md",
     "04_Inbox",
     "02_Lectures",
     "00_Dashboard/Dashboard.md",
     "01_Classes/01_Psychology/00_Methodology",
-    "README.md",
-    "01_Classes/01_Psychology/00_Methodology/0_Scientific_Method_Psychology.md",
     "01_Classes/01_Psychology",
-    "00_Dashboard.md",
     "00_Dashboard",
     "01_Classes/01_Psychology/02_week",
     "01_Classes/09_Computer_Science_class/0.project ideas",
     "01_Classes/01_Psychology/01_Week",
-    "01_Classes",
-    "01_Classes/09_Computer_Science_class/1.Python"
+    "01_Classes"
   ]
 }
