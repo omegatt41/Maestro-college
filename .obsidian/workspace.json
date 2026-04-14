@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/Inputs, outputs and the return contract.md",
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/One Job per Function.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inputs, outputs and the return contract"
+              "title": "One Job per Function"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -179,7 +179,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "01_Classes/01_Psychology/02_week/Prospect Theory and Risk.md"
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/One Job per Function.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -215,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/Inputs, outputs and the return contract.md"
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/One Job per Function.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Inputs, outputs and the return contract"
+              "title": "File properties for One Job per Function"
             }
           },
           {
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -267,10 +267,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "bd14c60b4da4efa6",
+  "active": "276885b3623e31d2",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/Why Does this script feel wrong.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/Inputs, outputs and the return contract.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/One Job per Function.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/Why Does this script feel wrong.md",
     "03_Templates/1.000.Software Engineering template.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering",
     "Projects/TODO_list/Layout.md",
@@ -298,7 +299,6 @@
     "01_Classes/01_Psychology/02_week/07_The_Dunning_Kruger_effect.md",
     "01_Classes/01_Psychology/02_week/06_The_marshmellow_test.md",
     "01_Classes/01_Psychology/02_week/04_False Memories.md",
-    "Prospect Theory and Risk.md",
     "04_Inbox",
     "02_Lectures",
     "01_Classes/01_Psychology/00_Methodology",
