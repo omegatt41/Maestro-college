@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/with friend help helper functions.md",
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/wiring it all together.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "with friend help helper functions"
+              "title": "wiring it all together"
             }
           }
         ],
@@ -269,8 +269,9 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/Functions calling Functions.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/with friend help helper functions.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/wiring it all together.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/Functions calling Functions.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/Whos running this program-Meet main().md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/Making Code Speak for itself.md",
     "03_Templates/1.000.Software Engineering template.md",
@@ -298,7 +299,6 @@
     "Untitled.md",
     "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md",
     "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md",
-    "01_Classes/01_Psychology/02_week/05_Selective_attention.md",
     "04_Inbox",
     "02_Lectures",
     "01_Classes/01_Psychology/00_Methodology",
