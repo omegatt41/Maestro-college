@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "When loops get tricky",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/When loops get tricky.md"
+      "basename": "program template",
+      "path": "03_Templates/program template.md"
+    },
+    {
+      "basename": "prog note template",
+      "path": "03_Templates/prog note template.md"
+    },
+    {
+      "basename": "7. Calling functions inside loops",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/7. Calling functions inside loops.md"
+    },
+    {
+      "basename": "6.When loops get tricky",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/6.When loops get tricky.md"
     },
     {
       "basename": "5. Challenge",
@@ -87,10 +99,6 @@
     {
       "basename": "1.00.Lecture notes template",
       "path": "03_Templates/1.00.Lecture notes template.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "01_Classes/09_Computer_Science_class/1.Python/Untitled.md"
     },
     {
       "basename": "Milgrahms Obediance Experiment",
@@ -191,14 +199,6 @@
     {
       "basename": "Ethics in Psychology",
       "path": "01_Classes/01_Psychology/01_Week/Ethics in Psychology.md"
-    },
-    {
-      "basename": "The Bystander Effect",
-      "path": "01_Classes/01_Psychology/01_Week/The Bystander Effect.md"
-    },
-    {
-      "basename": "2026-04-02",
-      "path": "2026-04-02.md"
     }
   ],
   "omittedPaths": [],
