@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Dict of lists and grouping by key",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/3. Dict of lists and grouping by key.md"
+    },
+    {
+      "basename": "2.Switching and filtering inside nested Untitled structures",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/2.Switching and filtering inside nested Untitled structures.md"
+    },
+    {
+      "basename": "1.000.Software Engineering template",
+      "path": "03_Templates/1.000.Software Engineering template.md"
+    },
+    {
       "basename": "1.When a single dict isnt enough",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week3/1.When a single dict isnt enough.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/1.When a single dict isnt enough.md"
     },
     {
       "basename": "4. Counters,score tables, and grouping",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/4. Counters,score tables, and grouping.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/4. Counters,score tables, and grouping.md"
     },
     {
       "basename": "3.Iterating over dict-keys,values,and items in action",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/3.Iterating over dict-keys,values,and items in action.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/3.Iterating over dict-keys,values,and items in action.md"
     },
     {
       "basename": "2.Introduce the dictionaries",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/2.Introduce the dictionaries.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/2.Introduce the dictionaries.md"
     },
     {
       "basename": "1. when using a list becomes painful",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/1. when using a list becomes painful.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/1. when using a list becomes painful.md"
     },
     {
       "basename": "program template",
@@ -30,39 +42,35 @@
     },
     {
       "basename": "7. Calling functions inside loops",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/7. Calling functions inside loops.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/7. Calling functions inside loops.md"
     },
     {
       "basename": "6.When loops get tricky",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/6.When loops get tricky.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/6.When loops get tricky.md"
     },
     {
       "basename": "5. Challenge",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/5. Challenge.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/5. Challenge.md"
     },
     {
       "basename": "10.wiring it all together",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/10.wiring it all together.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/10.wiring it all together.md"
     },
     {
       "basename": "9.with friend help helper functions",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/9.with friend help helper functions.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/9.with friend help helper functions.md"
     },
     {
       "basename": "8.Functions calling Functions",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/8.Functions calling Functions.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/8.Functions calling Functions.md"
     },
     {
       "basename": "7.Whos running this program-Meet main()",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/7.Whos running this program-Meet main().md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/7.Whos running this program-Meet main().md"
     },
     {
       "basename": "6.Making Code Speak for itself",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/6.Making Code Speak for itself.md"
-    },
-    {
-      "basename": "1.000.Software Engineering template",
-      "path": "03_Templates/1.000.Software Engineering template.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/6.Making Code Speak for itself.md"
     },
     {
       "basename": "1.0 Psych-Template",
@@ -70,23 +78,23 @@
     },
     {
       "basename": "1. Function Checklist-Template",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/1. Function Checklist-Template.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/1. Function Checklist-Template.md"
     },
     {
       "basename": "5.Handling Edge cases before they bite",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/5.Handling Edge cases before they bite.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/5.Handling Edge cases before they bite.md"
     },
     {
       "basename": "4.One Job per Function",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/4.One Job per Function.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/4.One Job per Function.md"
     },
     {
       "basename": "3.Inputs, outputs and the return contract",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/3.Inputs, outputs and the return contract.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/3.Inputs, outputs and the return contract.md"
     },
     {
       "basename": "2.Why Does this script feel wrong",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/2.Why Does this script feel wrong.md"
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/2.Why Does this script feel wrong.md"
     },
     {
       "basename": "Layout",
@@ -191,14 +199,6 @@
     {
       "basename": "Why we lie to ourselves",
       "path": "01_Classes/01_Psychology/01_Week/Why we lie to ourselves.md"
-    },
-    {
-      "basename": "Social influence in the digital age",
-      "path": "01_Classes/01_Psychology/01_Week/Social influence in the digital age.md"
-    },
-    {
-      "basename": "Me v.s. The System",
-      "path": "01_Classes/01_Psychology/01_Week/Me v.s. The System.md"
     }
   ],
   "omittedPaths": [],
