@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.When a single dict isnt enough",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week3/1.When a single dict isnt enough.md"
+    },
+    {
       "basename": "4. Counters,score tables, and grouping",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/4. Counters,score tables, and grouping.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Me v.s. The System",
       "path": "01_Classes/01_Psychology/01_Week/Me v.s. The System.md"
-    },
-    {
-      "basename": "Ethics in Psychology",
-      "path": "01_Classes/01_Psychology/01_Week/Ethics in Psychology.md"
     }
   ],
   "omittedPaths": [],

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/4. Counters,score tables, and grouping.md",
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/week3/1.When a single dict isnt enough.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4. Counters,score tables, and grouping"
+              "title": "1.When a single dict isnt enough"
             }
           }
         ],
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 363,
+    "collapsed": true
   },
   "right": {
     "id": "eb35b86c240498c6",
@@ -269,6 +270,9 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/4. Counters,score tables, and grouping.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/week3/1.When a single dict isnt enough.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/week3",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/3.Iterating over dict-keys,values,and items in action.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/2.Introduce the dictionaries.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/1. when using a list becomes painful.md",
@@ -277,7 +281,6 @@
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/7. Calling functions inside loops.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/6.When loops get tricky.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/5. Challenge.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/week2/4. Counters,score tables, and grouping.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week1/10.wiring it all together.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week2",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/week1",
@@ -300,10 +303,8 @@
     "Projects",
     "03_Templates/1.00.Lecture notes template.md",
     "Meta",
-    "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md",
     "04_Inbox",
     "02_Lectures",
-    "01_Classes/01_Psychology/00_Methodology",
-    "01_Classes/01_Psychology"
+    "01_Classes/01_Psychology/00_Methodology"
   ]
 }
