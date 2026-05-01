@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "6. Nested loops when to or not to",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/6. Nested loops when to or not to.md"
+    },
+    {
       "basename": "5. From pieces to flow",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/5. From pieces to flow.md"
     },
     {
-      "basename": "4. Challenge_test",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/4. Challenge_test.md"
-    },
-    {
       "basename": "3. Dict of lists and grouping by key",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/3. Dict of lists and grouping by key.md"
+    },
+    {
+      "basename": "4. Challenge_test",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/4. Challenge_test.md"
     },
     {
       "basename": "2.Switching and filtering inside nested Untitled structures",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "0_Scientific_Method_Psychology",
-      "path": "01_Classes/01_Psychology/00_Methodology/0_Scientific_Method_Psychology.md"
     }
   ],
   "omittedPaths": [],

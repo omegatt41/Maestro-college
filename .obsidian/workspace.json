@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/5. From pieces to flow.md",
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/6. Nested loops when to or not to.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5. From pieces to flow"
+              "title": "6. Nested loops when to or not to"
             }
           }
         ],
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363,
-    "collapsed": true
+    "width": 363
   },
   "right": {
     "id": "eb35b86c240498c6",
@@ -271,9 +270,10 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/4. Challenge_test.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/5. From pieces to flow.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/6. Nested loops when to or not to.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/3. Dict of lists and grouping by key.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/4. Challenge_test.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/2.Switching and filtering inside nested Untitled structures.md",
     "03_Templates/1.000.Software Engineering template.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/1.When a single dict isnt enough.md",
@@ -299,7 +299,6 @@
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/5.Handling Edge cases before they bite.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/4.One Job per Function.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/3.Inputs, outputs and the return contract.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/2.Why Does this script feel wrong.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering",
     "Projects/TODO_list",
     "Projects",
