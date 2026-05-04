@@ -5,6 +5,10 @@
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/7.Breaking repetition into reusable steps.md"
     },
     {
+      "basename": "8. Building from scratch",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/8. Building from scratch.md"
+    },
+    {
       "basename": "6. Nested loops when to or not to",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/6. Nested loops when to or not to.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vocabulary_wordlist",
       "path": "00_Dashboard/Vocabulary_wordlist.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "00_Dashboard/Dashboard.md"
     }
   ],
   "omittedPaths": [],
