@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/7.Breaking repetition into reusable steps.md",
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/3. Pseudocode the coding recipe concept.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "7.Breaking repetition into reusable steps"
+              "title": "3. Pseudocode the coding recipe concept"
             }
           }
         ],
@@ -270,8 +270,12 @@
   },
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/8. Building from scratch.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/2.Knowing when done is done.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/3. Pseudocode the coding recipe concept.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/1. Think before Typing.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/7.Breaking repetition into reusable steps.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/8. Building from scratch.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/6. Nested loops when to or not to.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/5. From pieces to flow.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/3. Dict of lists and grouping by key.md",
@@ -296,15 +300,11 @@
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/8.Functions calling Functions.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/7.Whos running this program-Meet main().md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/6.Making Code Speak for itself.md",
-    "03_Templates/1.0 Psych-Template.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/1. Function Checklist-Template.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/5.Handling Edge cases before they bite.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering",
     "Projects/TODO_list",
     "Projects",
     "Meta",
     "04_Inbox",
-    "02_Lectures",
-    "01_Classes/01_Psychology/00_Methodology"
+    "02_Lectures"
   ]
 }
