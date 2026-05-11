@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "5. Incremental impletation",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/5. Incremental impletation.md"
+    },
+    {
+      "basename": "1.000.Software Engineering template",
+      "path": "03_Templates/1.000.Software Engineering template.md"
+    },
+    {
+      "basename": "4. From Pseudocode to python",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/4. From Pseudocode to python.md"
+    },
+    {
       "basename": "3. Pseudocode the coding recipe concept",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/3. Pseudocode the coding recipe concept.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "2.Switching and filtering inside nested Untitled structures",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/2.Switching and filtering inside nested Untitled structures.md"
-    },
-    {
-      "basename": "1.000.Software Engineering template",
-      "path": "03_Templates/1.000.Software Engineering template.md"
     },
     {
       "basename": "1.When a single dict isnt enough",
@@ -191,14 +199,6 @@
     {
       "basename": "07_The_Dunning_Kruger_effect",
       "path": "01_Classes/01_Psychology/02_week/07_The_Dunning_Kruger_effect.md"
-    },
-    {
-      "basename": "06_The_marshmellow_test",
-      "path": "01_Classes/01_Psychology/02_week/06_The_marshmellow_test.md"
-    },
-    {
-      "basename": "04_False Memories",
-      "path": "01_Classes/01_Psychology/02_week/04_False Memories.md"
     }
   ],
   "omittedPaths": [],
