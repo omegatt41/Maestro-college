@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "5. Incremental impletation",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/5. Incremental impletation.md"
+      "basename": "6. Putting it all in motion",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/6. Putting it all in motion.md"
     },
     {
       "basename": "1.000.Software Engineering template",
       "path": "03_Templates/1.000.Software Engineering template.md"
+    },
+    {
+      "basename": "5. Incremental impletation",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/5. Incremental impletation.md"
     },
     {
       "basename": "4. From Pseudocode to python",
@@ -195,10 +199,6 @@
     {
       "basename": "08_Emotion_and_decision_making",
       "path": "01_Classes/01_Psychology/02_week/08_Emotion_and_decision_making.md"
-    },
-    {
-      "basename": "07_The_Dunning_Kruger_effect",
-      "path": "01_Classes/01_Psychology/02_week/07_The_Dunning_Kruger_effect.md"
     }
   ],
   "omittedPaths": [],

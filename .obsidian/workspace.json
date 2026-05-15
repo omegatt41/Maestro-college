@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/5. Incremental impletation.md",
+                "file": "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/6. Putting it all in motion.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5. Incremental impletation"
+              "title": "6. Putting it all in motion"
             }
           }
         ],
@@ -271,6 +271,7 @@
   "active": "bd14c60b4da4efa6",
   "lastOpenFiles": [
     "03_Templates/1.000.Software Engineering template.md",
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/6. Putting it all in motion.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/5. Incremental impletation.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/4. From Pseudocode to python.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/3. Pseudocode the coding recipe concept.md",
@@ -299,7 +300,6 @@
     "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/9.with friend help helper functions.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/8.Functions calling Functions.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering",
     "Projects/TODO_list",
     "Projects",
