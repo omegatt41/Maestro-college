@@ -7,5 +7,7 @@
   "propertiesInDocument": "hidden",
   "foldHeading": false,
   "foldIndent": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "readableLineLength": false
 }
