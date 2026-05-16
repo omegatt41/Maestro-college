@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "98. Sample program(orders)",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/98. Sample program(orders).md"
+    },
+    {
       "basename": "99. list_of_dicts_example",
       "path": "01_Classes/09_Computer_Science_class/99. list_of_dicts_example.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03_Prospect Theory and Risk",
       "path": "01_Classes/01_Psychology/02_week/03_Prospect Theory and Risk.md"
-    },
-    {
-      "basename": "09_The_Halo_and_Horn_Effects",
-      "path": "01_Classes/01_Psychology/02_week/09_The_Halo_and_Horn_Effects.md"
     }
   ],
   "omittedPaths": [],
