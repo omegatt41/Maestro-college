@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "0. High Overview cs102",
+      "path": "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/0. High Overview cs102.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "00_Dashboard/Dashboard.md"
+    },
+    {
       "basename": "dict-list-comprehesion",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/9. Practice Notes/dict-list-comprehesion.md"
     },
@@ -13,12 +21,12 @@
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/3. Dict of lists and grouping by key.md"
     },
     {
-      "basename": "98. Sample program(orders)",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/98. Sample program(orders).md"
+      "basename": "99. Sample program(orders)",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/99. Sample program(orders).md"
     },
     {
-      "basename": "99. list_of_dicts_example",
-      "path": "01_Classes/09_Computer_Science_class/99. list_of_dicts_example.md"
+      "basename": "98. list_of_dicts_example",
+      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/98. list_of_dicts_example.md"
     },
     {
       "basename": "4. Counters,score tables, and grouping",
@@ -191,14 +199,6 @@
     {
       "basename": "10_Putting_it_all_together",
       "path": "01_Classes/01_Psychology/02_week/10_Putting_it_all_together.md"
-    },
-    {
-      "basename": "01_The_Brain_as_the_shortcut_Machine",
-      "path": "01_Classes/01_Psychology/02_week/01_The_Brain_as_the_shortcut_Machine.md"
-    },
-    {
-      "basename": "02_Anchoring_and_Frameing_effects",
-      "path": "01_Classes/01_Psychology/02_week/02_Anchoring_and_Frameing_effects.md"
     }
   ],
   "omittedPaths": [],
