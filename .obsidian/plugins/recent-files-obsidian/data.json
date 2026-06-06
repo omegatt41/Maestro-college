@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "01.Algo_analysis",
+      "path": "01_Classes/Data Structs and algo/01.Algo_analysis.md"
+    },
+    {
+      "basename": "1.000_data_and algo_class",
+      "path": "03_Templates/1.000_data_and algo_class.md"
+    },
+    {
       "basename": "1. What is a data-structure",
       "path": "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/1. unit1-Foundations of data structures/1. What is a data-structure.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "1.1.2_Programming Template",
       "path": "03_Templates/1.1.2_Programming Template.md"
-    },
-    {
-      "basename": "1.00.Lecture notes template",
-      "path": "03_Templates/1.00.Lecture notes template.md"
-    },
-    {
-      "basename": "Milgrahms Obediance Experiment",
-      "path": "01_Classes/01_Psychology/01_Week/Milgrahms Obediance Experiment.md"
-    },
-    {
-      "basename": "Python-Core cheatsheet",
-      "path": "01_Classes/09_Computer_Science_class/1.Python/Python-Core cheatsheet.md"
     }
   ],
   "omittedPaths": [],
