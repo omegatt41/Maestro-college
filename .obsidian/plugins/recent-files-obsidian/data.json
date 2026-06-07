@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00. Safe guards for searching",
+      "path": "01_Classes/Data Structs and algo/00. Safe guards for searching.md"
+    },
+    {
       "basename": "02. BigO Notaition",
       "path": "01_Classes/Data Structs and algo/02. BigO Notaition.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "requirements",
       "path": "Projects/TODO_list/requirements.md"
-    },
-    {
-      "basename": "1.1.2_Programming Template",
-      "path": "03_Templates/1.1.2_Programming Template.md"
     }
   ],
   "omittedPaths": [],

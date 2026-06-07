@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/Data Structs and algo/02. BigO Notaition.md",
+                "file": "01_Classes/Data Structs and algo/00. Safe guards for searching.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02. BigO Notaition"
+              "title": "00. Safe guards for searching"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281,
-    "collapsed": true
+    "width": 281
   },
   "right": {
     "id": "eb35b86c240498c6",
@@ -289,8 +288,9 @@
   },
   "active": "30d36f0c7d6bfd62",
   "lastOpenFiles": [
-    "01_Classes/Data Structs and algo/01.Algo_analysis.md",
     "01_Classes/Data Structs and algo/02. BigO Notaition.md",
+    "01_Classes/Data Structs and algo/00. Safe guards for searching.md",
+    "01_Classes/Data Structs and algo/01.Algo_analysis.md",
     "01_Classes/Data Structs and algo/02.Why we need algo in real life.md",
     "03_Templates/1.000_data_and algo_class.md",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/1. unit1-Foundations of data structures/1. What is a data-structure.md",
@@ -321,7 +321,6 @@
     "03_Templates/1.000.Software Engineering template.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/5. Incremental impletation.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/4. From Pseudocode to python.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing/3. Pseudocode the coding recipe concept.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns"
