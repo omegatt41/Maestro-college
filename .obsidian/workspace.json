@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ffce67143e6d365",
+        "id": "0850db5171f3c335",
         "type": "tabs",
         "children": [
           {
-            "id": "30d36f0c7d6bfd62",
+            "id": "8b1a2db99352af4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Classes/Data Structs and algo/00. Safe guards for searching.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00. Safe guards for searching"
+              "title": "New tab"
             }
           }
         ]
@@ -286,10 +281,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "30d36f0c7d6bfd62",
+  "active": "8b1a2db99352af4b",
   "lastOpenFiles": [
-    "01_Classes/Data Structs and algo/02. BigO Notaition.md",
     "01_Classes/Data Structs and algo/00. Safe guards for searching.md",
+    "01_Classes/Data Structs and algo/02. BigO Notaition.md",
     "01_Classes/Data Structs and algo/01.Algo_analysis.md",
     "01_Classes/Data Structs and algo/02.Why we need algo in real life.md",
     "03_Templates/1.000_data_and algo_class.md",
