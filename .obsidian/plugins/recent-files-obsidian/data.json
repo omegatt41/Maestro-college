@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "3.linear search small unsorted data",
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/3.linear search small unsorted data.md"
+    },
+    {
       "basename": "00. Safe guards for searching",
-      "path": "01_Classes/Data Structs and algo/00. Safe guards for searching.md"
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/00. Safe guards for searching.md"
     },
     {
       "basename": "02. BigO Notaition",
-      "path": "01_Classes/Data Structs and algo/02. BigO Notaition.md"
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/02. BigO Notaition.md"
     },
     {
       "basename": "01.Algo_analysis",
-      "path": "01_Classes/Data Structs and algo/01.Algo_analysis.md"
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/01.Algo_analysis.md"
     },
     {
       "basename": "1.000_data_and algo_class",
@@ -195,10 +199,6 @@
     {
       "basename": "Layout",
       "path": "Projects/TODO_list/Layout.md"
-    },
-    {
-      "basename": "requirements",
-      "path": "Projects/TODO_list/requirements.md"
     }
   ],
   "omittedPaths": [],
