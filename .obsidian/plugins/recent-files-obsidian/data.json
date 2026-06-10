@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "05. Linear vs. Binary Search",
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/05. Linear vs. Binary Search.md"
+    },
+    {
+      "basename": "02. BigO Notaition",
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/02. BigO Notaition.md"
+    },
+    {
+      "basename": "04. Binary number search",
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/04. Binary number search.md"
+    },
+    {
       "basename": "3.linear search small unsorted data",
       "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/3.linear search small unsorted data.md"
     },
     {
       "basename": "00. Safe guards for searching",
       "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/00. Safe guards for searching.md"
-    },
-    {
-      "basename": "02. BigO Notaition",
-      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/02. BigO Notaition.md"
     },
     {
       "basename": "01.Algo_analysis",
@@ -191,14 +199,6 @@
     {
       "basename": "3.Inputs, outputs and the return contract",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/3.Inputs, outputs and the return contract.md"
-    },
-    {
-      "basename": "2.Why Does this script feel wrong",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/2.Why Does this script feel wrong.md"
-    },
-    {
-      "basename": "Layout",
-      "path": "Projects/TODO_list/Layout.md"
     }
   ],
   "omittedPaths": [],
