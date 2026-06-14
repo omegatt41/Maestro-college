@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Sorting number lists",
-      "path": "01_Classes/09_Computer_Science_class/1.Python/Sorting number lists.md"
+      "basename": "sorting",
+      "path": "01_Classes/09_Computer_Science_class/1.Python/sorting.md"
+    },
+    {
+      "basename": "Sorting_numbers_cheatsheet",
+      "path": "01_Classes/09_Computer_Science_class/1.Python/Sorting_numbers_cheatsheet.md"
     },
     {
       "basename": "8. Comparing bubble and insertion sort",
@@ -195,10 +199,6 @@
     {
       "basename": "6.Making Code Speak for itself",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/6.Making Code Speak for itself.md"
-    },
-    {
-      "basename": "1.0 Psych-Template",
-      "path": "03_Templates/1.0 Psych-Template.md"
     }
   ],
   "omittedPaths": [],
