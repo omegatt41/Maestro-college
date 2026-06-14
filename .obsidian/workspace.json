@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/05. Linear vs. Binary Search.md",
+                "file": "01_Classes/09_Computer_Science_class/1.Python/Sorting number lists.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05. Linear vs. Binary Search"
+              "title": "Sorting number lists"
             }
           }
         ]
@@ -288,8 +288,12 @@
   },
   "active": "8b1a2db99352af4b",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/02. BigO Notaition.md",
+    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/8. Comparing bubble and insertion sort.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Sorting number lists.md",
+    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/6. Number insertion sorting method.md",
+    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/7. Bubble sorting.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/05. Linear vs. Binary Search.md",
+    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/02. BigO Notaition.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/04. Binary number search.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/3.linear search small unsorted data.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/00. Safe guards for searching.md",
@@ -318,10 +322,6 @@
     "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/4. Counters,score tables, and grouping.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/3.Iterating over dict-keys,values,and items in action.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/2.Introduce the dictionaries.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/1. when using a list becomes painful.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/6.When loops get tricky.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/5. Challenge.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/7.Breaking repetition into reusable steps.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow"
   ]

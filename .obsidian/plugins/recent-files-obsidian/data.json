@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Sorting number lists",
+      "path": "01_Classes/09_Computer_Science_class/1.Python/Sorting number lists.md"
+    },
+    {
+      "basename": "8. Comparing bubble and insertion sort",
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/8. Comparing bubble and insertion sort.md"
+    },
+    {
+      "basename": "6. Number insertion sorting method",
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/6. Number insertion sorting method.md"
+    },
+    {
+      "basename": "7. Bubble sorting",
+      "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/7. Bubble sorting.md"
+    },
+    {
       "basename": "05. Linear vs. Binary Search",
       "path": "01_Classes/09_Computer_Science_class/7.Data Structs and algo/05. Linear vs. Binary Search.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "1.0 Psych-Template",
       "path": "03_Templates/1.0 Psych-Template.md"
-    },
-    {
-      "basename": "1. Function Checklist-Template",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/1. Function Checklist-Template.md"
-    },
-    {
-      "basename": "5.Handling Edge cases before they bite",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/5.Handling Edge cases before they bite.md"
-    },
-    {
-      "basename": "4.One Job per Function",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/4.One Job per Function.md"
-    },
-    {
-      "basename": "3.Inputs, outputs and the return contract",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/3.Inputs, outputs and the return contract.md"
     }
   ],
   "omittedPaths": [],
