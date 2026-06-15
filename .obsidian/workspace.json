@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "0850db5171f3c335",
+        "id": "9d7a819573ac6beb",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1a2db99352af4b",
+            "id": "0b7992f5720d00e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/1.Python/sorting.md",
+                "file": "03_Templates/1.01_history template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sorting"
+              "title": "1.01_history template"
+            }
+          },
+          {
+            "id": "51ce03a935c13eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Classes/History/Hist200.history.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hist200.history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psycology 100/notes/Ethics in Psychology.md",
-                "followCursor": true,
+                "file": "01_Classes/History/Hist200.history.md",
+                "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ethics in Psychology"
+              "title": "Outline of Hist200.history"
             }
           },
           {
@@ -204,8 +220,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -259,13 +275,34 @@
               "icon": "lucide-ghost",
               "title": "juggl_style"
             }
+          },
+          {
+            "id": "daeec530eefdc625",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "16e328cf1dfdce90",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,13 +313,25 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "8b1a2db99352af4b",
+  "active": "51ce03a935c13eaa",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/1.Python/Sorting_numbers_cheatsheet.md",
+    "03_Templates/1.01_history template.md",
+    "999_markdown cheatsheet.md",
+    "01_Classes/History/Hist200.history.md",
     "01_Classes/09_Computer_Science_class/1.Python/sorting.md",
+    "01_Classes/History",
+    "Untitled",
+    "01_Classes/09_Computer_Science_class/1.Python/Sorting_numbers_cheatsheet.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/8. Comparing bubble and insertion sort.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/6. Number insertion sorting method.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/7. Bubble sorting.md",
@@ -311,11 +360,6 @@
     "01_Classes/09_Computer_Science_class/5. Software Engineering/97. dict-list-comprehension-example.md",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/9. Practice Notes",
     "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/3. Dict of lists and grouping by key.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/99. Sample program(orders).md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/98. list_of_dicts_example.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/4. Counters,score tables, and grouping.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/3.Iterating over dict-keys,values,and items in action.md",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/4. Professional planing",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow"
+    "01_Classes/09_Computer_Science_class/5. Software Engineering/99. Sample program(orders).md"
   ]
 }

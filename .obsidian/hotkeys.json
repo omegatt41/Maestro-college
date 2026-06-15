@@ -58,5 +58,13 @@
     }
   ],
   "editor:open-link-in-new-leaf": [],
-  "editor:follow-link": []
+  "editor:follow-link": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
 }

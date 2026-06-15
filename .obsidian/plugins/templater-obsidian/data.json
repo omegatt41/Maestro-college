@@ -32,11 +32,16 @@
     {
       "regex": "*.",
       "template": "03_Templates/1.6.Note Template.md"
+    },
+    {
+      "regex": ".history",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
+    "",
     ""
   ],
   "startup_templates": [
