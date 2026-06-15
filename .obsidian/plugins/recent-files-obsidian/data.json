@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Hist200.history",
       "path": "01_Classes/History/Hist200.history.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.wiring it all together",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/10.wiring it all together.md"
-    },
-    {
-      "basename": "9.with friend help helper functions",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/9.with friend help helper functions.md"
     }
   ],
   "omittedPaths": [],

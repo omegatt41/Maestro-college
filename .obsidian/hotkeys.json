@@ -1,5 +1,12 @@
 {
-  "file-explorer:new-file": [],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
   "zk-prefixer": [
     {
       "modifiers": [
