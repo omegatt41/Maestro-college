@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "4.Cryptography, Signal's Intel, and early Surveillences",
+      "path": "01_Classes/History/4.Cryptography, Signal's Intel, and early Surveillences.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "3. wartime research and the invention of modern computing",
-      "path": "3. wartime research and the invention of modern computing.md"
+      "path": "01_Classes/History/3. wartime research and the invention of modern computing.md"
     },
     {
       "basename": "2. Detterence ,escalation and birth of the cold war",
@@ -191,14 +199,6 @@
     {
       "basename": "program template",
       "path": "03_Templates/program template.md"
-    },
-    {
-      "basename": "prog note template",
-      "path": "03_Templates/prog note template.md"
-    },
-    {
-      "basename": "7. Calling functions inside loops",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/7. Calling functions inside loops.md"
     }
   ],
   "omittedPaths": [],
