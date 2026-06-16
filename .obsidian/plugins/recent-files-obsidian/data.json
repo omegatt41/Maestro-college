@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "3. wartime research and the invention of modern computing",
+      "path": "3. wartime research and the invention of modern computing.md"
+    },
+    {
+      "basename": "2. Detterence ,escalation and birth of the cold war",
+      "path": "2. Detterence ,escalation and birth of the cold war.md"
     },
     {
       "basename": "Hist200.history",
@@ -195,10 +199,6 @@
     {
       "basename": "7. Calling functions inside loops",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/2. thinking in better patterns/7. Calling functions inside loops.md"
-    },
-    {
-      "basename": "10.wiring it all together",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/1. functions level-up/10.wiring it all together.md"
     }
   ],
   "omittedPaths": [],
