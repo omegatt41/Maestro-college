@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "4.Cryptography, Signal's Intel, and early Surveillences",
-      "path": "01_Classes/History/4.Cryptography, Signal's Intel, and early Surveillences.md"
+      "basename": "6.Vietnam and public opinons",
+      "path": "01_Classes/History/6.Vietnam and public opinons.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "5.US in a new era_1970_to_curent",
+      "path": "01_Classes/History/5.US in a new era_1970_to_curent.md"
+    },
+    {
+      "basename": "4.Cryptography, Signal's Intel, and early Surveillences",
+      "path": "01_Classes/History/4.Cryptography, Signal's Intel, and early Surveillences.md"
     },
     {
       "basename": "3. wartime research and the invention of modern computing",
@@ -14,7 +18,7 @@
     },
     {
       "basename": "2. Detterence ,escalation and birth of the cold war",
-      "path": "2. Detterence ,escalation and birth of the cold war.md"
+      "path": "01_Classes/History/2. Detterence ,escalation and birth of the cold war.md"
     },
     {
       "basename": "Hist200.history",
@@ -191,14 +195,6 @@
     {
       "basename": "2.Switching and filtering inside nested Untitled structures",
       "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/2.Switching and filtering inside nested Untitled structures.md"
-    },
-    {
-      "basename": "1.When a single dict isnt enough",
-      "path": "01_Classes/09_Computer_Science_class/5. Software Engineering/3. from pieces to logical flow/1.When a single dict isnt enough.md"
-    },
-    {
-      "basename": "program template",
-      "path": "03_Templates/program template.md"
     }
   ],
   "omittedPaths": [],
