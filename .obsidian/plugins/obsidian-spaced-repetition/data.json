@@ -83,7 +83,15 @@
     "preferredLocale": "-",
     "showDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2026-06-28",
+=======
+<<<<<<< HEAD
+  "buryDate": "2026-06-28",
+=======
+  "buryDate": "2026-06-22",
+>>>>>>> origin/main
+>>>>>>> origin/main
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2d732e78f957a7",
+        "id": "3c1bc859bb6c3999",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd273504307ee62",
+            "id": "066855d0ef4ce16e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -300,9 +300,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cbd273504307ee62",
+  "active": "066855d0ef4ce16e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "7.from  military to civil networks.md",
+    "01_Classes/History/7.from military networks to civil et.md",
     "Untitled.md",
     "01_Classes/History/6.Vietnam and public opinons.md",
     "01_Classes/History/5.US in a new era_1970_to_curent.md",
@@ -329,8 +331,6 @@
     "01_Classes/09_Computer_Science_class/8.Searching and sorting/1.linear search with small unsorted data.md",
     "01_Classes/09_Computer_Science_class/8.Searching and sorting",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/01.Algo_analysis.md",
-    "01_Classes/Data Structs and algo/02.Why we need algo in real life.md",
-    "03_Templates/1.000_data_and algo_class.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/4. unit4-Searching and Sorting",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/3. unit3-Algorythm analysis",
