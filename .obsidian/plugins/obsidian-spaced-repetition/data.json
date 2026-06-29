@@ -1,8 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards",
-      ""
+      "#flashcards"
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
@@ -29,14 +28,13 @@
     "reviewReminderShowNotice": true,
     "reviewReminderPlaySound": true,
     "reviewReminderBounceDock": true,
-    "randomizeCardOrder": null,
-    "enableNoteReviewPaneOnStartup": false,
+    "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
       "#review"
     ],
     "noteTagsToIgnore": [],
     "noteFoldersToIgnore": [
-      "99 - Meta"
+      "**/*.excalidraw.md"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -48,16 +46,16 @@
     "showNoteStatusBarItem": true,
     "showUpdateAvailableStatusBarItem": true,
     "initiallyExpandAllSubdecksInTree": true,
-    "showContextInCards": false,
+    "showContextInCards": true,
     "showIntervalInReviewButtons": true,
-    "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 100,
+    "flashcardHeightPercentage": 60,
+    "flashcardWidthPercentage": 60,
     "flashcardHeightPercentageMobile": 100,
     "flashcardWidthPercentageMobile": 100,
     "flashcardAgainText": "Again",
-    "flashcardEasyText": "Got It",
-    "flashcardGoodText": "Parital",
-    "flashcardHardText": "Too Hard",
+    "flashcardEasyText": "Easy",
+    "flashcardGoodText": "Good",
+    "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "showDeleteButtonInCardView": false,
     "showDeleteButtonInFileMenu": false,
@@ -75,23 +73,14 @@
     "fsrsDesiredRetention": 0.9,
     "startOfDay": "00:00:00",
     "dataStore": "NOTES",
-    "cardCommentOnSameLine": true,
+    "cardCommentOnSameLine": false,
     "scheduleDataVaultLocation": "Spaced Repetition",
     "showSchedulingDebugMessages": false,
     "showParserDebugMessages": false,
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY",
-    "preferredLocale": "-",
-    "showDebugMessages": false
+    "preferredLocale": "-"
   },
-<<<<<<< HEAD
   "buryDate": "2026-06-28",
-=======
-<<<<<<< HEAD
-  "buryDate": "2026-06-28",
-=======
-  "buryDate": "2026-06-22",
->>>>>>> origin/main
->>>>>>> origin/main
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {
