@@ -273,9 +273,19 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "89dc15ca9772da91",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -300,7 +310,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "066855d0ef4ce16e",
+  "active": "89dc15ca9772da91",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "7.from  military to civil networks.md",
