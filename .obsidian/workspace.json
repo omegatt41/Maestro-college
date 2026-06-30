@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/4.Classes and instances.md",
+                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/5. Quick detour built-in modules.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4.Classes and instances"
+              "title": "5. Quick detour built-in modules"
             }
           }
         ]
@@ -317,8 +317,9 @@
   },
   "active": "cf87b0d0d4e7db91",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/3. object = data + behavior.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/4.Classes and instances.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/5. Quick detour built-in modules.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/3. object = data + behavior.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.What is OOP and why we need it..md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Welcome to OOP.md",
     "03_Templates/1.001 OOP template (class).md",
@@ -345,7 +346,6 @@
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/6. Number insertion sorting method.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/7. Bubble sorting.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/05. Linear vs. Binary Search.md",
-    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/02. BigO Notaition.md",
     "01_Classes/09_Computer_Science_class/8.Searching and sorting",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/4. unit4-Searching and Sorting",
