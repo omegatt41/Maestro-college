@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c1bc859bb6c3999",
+        "id": "b82d9d8be8065541",
         "type": "tabs",
         "children": [
           {
-            "id": "066855d0ef4ce16e",
+            "id": "cf87b0d0d4e7db91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/4.Classes and instances.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4.Classes and instances"
             }
           }
         ]
@@ -310,12 +315,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "89dc15ca9772da91",
+  "active": "cf87b0d0d4e7db91",
   "lastOpenFiles": [
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/3. object = data + behavior.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/4.Classes and instances.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.What is OOP and why we need it..md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Welcome to OOP.md",
+    "03_Templates/1.001 OOP template (class).md",
+    "Untitled.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)",
     "conflict-files-obsidian-git.md",
     "7.from  military to civil networks.md",
     "01_Classes/History/7.from military networks to civil et.md",
-    "Untitled.md",
     "01_Classes/History/6.Vietnam and public opinons.md",
     "01_Classes/History/5.US in a new era_1970_to_curent.md",
     "trash/Untitled.md",
@@ -335,18 +346,12 @@
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/7. Bubble sorting.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/05. Linear vs. Binary Search.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo/02. BigO Notaition.md",
-    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/04. Binary number search.md",
-    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/3.linear search small unsorted data.md",
-    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/00. Safe guards for searching.md",
-    "01_Classes/09_Computer_Science_class/8.Searching and sorting/1.linear search with small unsorted data.md",
     "01_Classes/09_Computer_Science_class/8.Searching and sorting",
-    "01_Classes/09_Computer_Science_class/7.Data Structs and algo/01.Algo_analysis.md",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/4. unit4-Searching and Sorting",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/3. unit3-Algorythm analysis",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/2. unit2-Stacks and queues",
     "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms/1. unit1-Foundations of data structures",
-    "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms",
-    "01_Classes/09_Computer_Science_class/5. Software Engineering/9. Practice Notes"
+    "01_Classes/09_Computer_Science_class/6. (cs102)Data-structures and algorithyms"
   ]
 }
