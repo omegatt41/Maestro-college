@@ -1,0 +1,19 @@
+# Startup Check-list 
+- [ ] plan /init the project(use template)
+- [ ] write psuedocode outline for the program
+- [ ] write docstrings in before any real code
+- [ ] start converting psuedocode into actionable rough draft
+- [ ] review for errors/corrrect them
+- [ ] refine 
+- [ ] review
+- [ ] test
+- [ ] review
+- [ ] refine
+- [ ] run and try to break it
+- [ ] fix anything i was able to break
+- [ ] do it again X3 publish to community your idea see if anyone has any good ideas to add
+- [ ] take a break thinki about it
+- [ ] review and refine 1 more time
+- [ ] ARE YOU SATISFIED!
+- [ ] good just to be safe try to break it again
+- [ ] fix whatg you missed i know u did!!

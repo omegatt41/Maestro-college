@@ -28,7 +28,6 @@ topics: Psych-100
 * **Prospect Theory:** People evaluate outcomes as gains or losses relative to a reference point, not in absolute terms.
 * **Reference Point:** Your mental “Status quo” or expectations (e.g. what you thought youd get or lose)
 
-* **
 * S shaped value function:
 * **Reference Dependent** - Curve crosses zero at the reference point(no gain/loss there)
 * **Concave for gains** - (above the reference point):
@@ -70,11 +69,8 @@ Framing and prospect theory:
     - “Save $50” vs. “Avoid a $50 fee” → the _loss-framed_ version usually motivates more 
 
 ## 🔗 Related Notes
-*   
-
----
 ## 📝 Summary (Active Recall)
-#review
+
 - **Prospect theory**: People evaluate outcomes as **gains or losses relative to a reference point**, not in absolute terms.
 - **Reference point**: Your mental “status quo” or expectation (e.g., what you thought you’d get or lose).
 - **S-shaped value function**:
