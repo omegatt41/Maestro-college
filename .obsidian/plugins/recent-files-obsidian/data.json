@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "class cheatsheet",
-      "path": "01_Classes/09_Computer_Science_class/1.Python/class cheatsheet.md"
+      "basename": "2.Object Identity v.s. equality",
+      "path": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md"
+    },
+    {
+      "basename": "1.001 OOP template (class)",
+      "path": "03_Templates/1.001 OOP template (class).md"
+    },
+    {
+      "basename": "1.Creating multiple object from one class",
+      "path": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/1.Creating multiple object from one class.md"
     },
     {
       "basename": "Untitled",
       "path": "01_Classes/09_Computer_Science_class/1.Python/Untitled.md"
     },
     {
-      "basename": "1.Creating multiple object from one class",
-      "path": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/1.Creating multiple object from one class.md"
+      "basename": "class cheatsheet",
+      "path": "01_Classes/09_Computer_Science_class/1.Python/class cheatsheet.md"
     },
     {
       "basename": "8.Creating your first class",
@@ -39,10 +47,6 @@
     {
       "basename": "1.Welcome to OOP",
       "path": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/1.Welcome to OOP.md"
-    },
-    {
-      "basename": "1.001 OOP template (class)",
-      "path": "03_Templates/1.001 OOP template (class).md"
     },
     {
       "basename": "Untitled",

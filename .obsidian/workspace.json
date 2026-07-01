@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/1.Python/class cheatsheet.md",
-                "mode": "preview",
+                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "class cheatsheet"
+              "title": "2.Object Identity v.s. equality"
             }
           }
         ]
@@ -85,8 +85,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,9 +317,11 @@
   },
   "active": "cf87b0d0d4e7db91",
   "lastOpenFiles": [
+    "03_Templates/1.001 OOP template (class).md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/1.Creating multiple object from one class.md",
     "01_Classes/09_Computer_Science_class/1.Python/Untitled.md",
     "01_Classes/09_Computer_Science_class/1.Python/class cheatsheet.md",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/1.Creating multiple object from one class.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/8.Creating your first class.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects",
@@ -332,7 +333,6 @@
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/3. object = data + behavior.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/2.What is OOP and why we need it..md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/1.Welcome to OOP.md",
-    "03_Templates/1.001 OOP template (class).md",
     "Untitled.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)",
     "conflict-files-obsidian-git.md",
@@ -349,7 +349,6 @@
     "01_Classes/History/Hist200.history.md",
     "03_Templates/1.01_history template.md",
     "999_markdown cheatsheet.md",
-    "01_Classes/09_Computer_Science_class/1.Python/sorting.md",
     "01_Classes/History",
     "01_Classes/09_Computer_Science_class/8.Searching and sorting",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo",
