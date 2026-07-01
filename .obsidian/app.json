@@ -4,7 +4,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
   "livePreview": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "source",
   "foldHeading": false,
   "foldIndent": false,
   "showInlineTitle": false,
