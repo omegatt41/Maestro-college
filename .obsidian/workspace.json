@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md",
-                "mode": "preview",
+                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2.Object Identity v.s. equality"
+              "title": "3. Methods and the role of self"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md",
+                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.Object Identity v.s. equality"
+              "title": "Outline of 3. Methods and the role of self"
             }
           },
           {
@@ -291,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -318,39 +318,39 @@
   },
   "active": "04c7a413cefdb32d",
   "lastOpenFiles": [
-    "01_Classes/09_Computer_Science_class/1.Python/Startup Checklist(dont delete).md",
+    "01_Classes/History/7.from  military to civil networks.md",
+    "03_Templates/x_Dataview Table Snippet.md",
+    "01_Classes/History/7.from military networks to civil et.md",
+    "03_Templates/x_Back Matter Snippet.md",
     "03_Templates/python planning and init.md",
+    "03_Templates/basic accumulator template.md",
+    "03_Templates/prog note template.md",
+    "03_Templates/Data-algo-struct-concept-template.md",
+    "03_Templates/5_Meeting Notes Template.md",
+    "03_Templates/5_BuJo - Monthly Log.md",
+    "03_Templates/5_BuJo - Future Log.md",
+    "03_Templates/5_BuJo - Daily Log.md",
+    "03_Templates/3_Prompt Template.md",
+    "03_Templates/1.5.Tool Template.md",
+    "03_Templates/1.3Core Pentest Notes Template.md",
+    "03_Templates/1.1.2_Programming Template.md",
+    "03_Templates/1.001 OOP template (class).md",
+    "03_Templates/1.1.1 Methodology Template.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md",
+    "01_Classes/09_Computer_Science_class/1.Python/Startup Checklist(dont delete).md",
     "03_Templates/project templates",
     "01_Classes/01_Psychology/02_week/03_Prospect Theory and Risk.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/1.Creating multiple object from one class.md",
-    "03_Templates/1.001 OOP template (class).md",
     "01_Classes/09_Computer_Science_class/1.Python/Untitled.md",
     "01_Classes/09_Computer_Science_class/1.Python/class cheatsheet.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/8.Creating your first class.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/6.Objects in Action.md",
     "Meta/Pasted image 20260629224810.png",
     "Meta",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/5. Quick detour built-in modules.md",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/4.Classes and instances.md",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/3. object = data + behavior.md",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/2.What is OOP and why we need it..md",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/1.Welcome to OOP.md",
-    "Untitled.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)",
-    "conflict-files-obsidian-git.md",
-    "7.from  military to civil networks.md",
-    "01_Classes/History/7.from military networks to civil et.md",
-    "01_Classes/History/6.Vietnam and public opinons.md",
-    "01_Classes/History/5.US in a new era_1970_to_curent.md",
-    "trash/Untitled.md",
     "trash",
-    "01_Classes/History/5.the space race and political innovation.md",
-    "01_Classes/History/4.Cryptography, Signal's Intel, and early Surveillences.md",
-    "01_Classes/History/3. wartime research and the invention of modern computing.md",
-    "01_Classes/History/2. Detterence ,escalation and birth of the cold war.md",
     "01_Classes/History",
     "01_Classes/09_Computer_Science_class/8.Searching and sorting",
     "01_Classes/09_Computer_Science_class/7.Data Structs and algo",

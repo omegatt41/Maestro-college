@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Methods and the role of self",
+      "path": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md"
+    },
+    {
+      "basename": "7.from  military to civil networks",
+      "path": "01_Classes/History/7.from  military to civil networks.md"
+    },
+    {
+      "basename": "x_Dataview Table Snippet",
+      "path": "03_Templates/x_Dataview Table Snippet.md"
+    },
+    {
+      "basename": "x_Back Matter Snippet",
+      "path": "03_Templates/x_Back Matter Snippet.md"
+    },
+    {
+      "basename": "python planning and init",
+      "path": "03_Templates/python planning and init.md"
+    },
+    {
+      "basename": "basic accumulator template",
+      "path": "03_Templates/basic accumulator template.md"
+    },
+    {
+      "basename": "prog note template",
+      "path": "03_Templates/prog note template.md"
+    },
+    {
+      "basename": "Data-algo-struct-concept-template",
+      "path": "03_Templates/Data-algo-struct-concept-template.md"
+    },
+    {
+      "basename": "5_Meeting Notes Template",
+      "path": "03_Templates/5_Meeting Notes Template.md"
+    },
+    {
+      "basename": "5_BuJo - Monthly Log",
+      "path": "03_Templates/5_BuJo - Monthly Log.md"
+    },
+    {
+      "basename": "5_BuJo - Future Log",
+      "path": "03_Templates/5_BuJo - Future Log.md"
+    },
+    {
+      "basename": "5_BuJo - Daily Log",
+      "path": "03_Templates/5_BuJo - Daily Log.md"
+    },
+    {
+      "basename": "3_Prompt Template",
+      "path": "03_Templates/3_Prompt Template.md"
+    },
+    {
+      "basename": "1.5.Tool Template",
+      "path": "03_Templates/1.5.Tool Template.md"
+    },
+    {
+      "basename": "1.3Core Pentest Notes Template",
+      "path": "03_Templates/1.3Core Pentest Notes Template.md"
+    },
+    {
+      "basename": "1.1.2_Programming Template",
+      "path": "03_Templates/1.1.2_Programming Template.md"
+    },
+    {
+      "basename": "1.001 OOP template (class)",
+      "path": "03_Templates/1.001 OOP template (class).md"
+    },
+    {
       "basename": "2.Object Identity v.s. equality",
       "path": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md"
     },
@@ -9,20 +77,12 @@
       "path": "01_Classes/09_Computer_Science_class/1.Python/Startup Checklist(dont delete).md"
     },
     {
-      "basename": "python planning and init",
-      "path": "03_Templates/python planning and init.md"
-    },
-    {
       "basename": "03_Prospect Theory and Risk",
       "path": "01_Classes/01_Psychology/02_week/03_Prospect Theory and Risk.md"
     },
     {
       "basename": "1.Creating multiple object from one class",
       "path": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/1.Creating multiple object from one class.md"
-    },
-    {
-      "basename": "1.001 OOP template (class)",
-      "path": "03_Templates/1.001 OOP template (class).md"
     },
     {
       "basename": "Untitled",
@@ -63,14 +123,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "7.from  military to civil networks",
-      "path": "7.from  military to civil networks.md"
-    },
-    {
-      "basename": "7.from military networks to civil et",
-      "path": "01_Classes/History/7.from military networks to civil et.md"
     }
   ],
   "omittedPaths": [],
