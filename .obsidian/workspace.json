@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md",
+                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/5. Challenge.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. Methods and the role of self"
+              "title": "5. Challenge"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md",
+                "file": "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/5. Challenge.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Methods and the role of self"
+              "title": "Outline of 5. Challenge"
             }
           },
           {
@@ -318,6 +318,9 @@
   },
   "active": "04c7a413cefdb32d",
   "lastOpenFiles": [
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/4. self param and methods that use atributes.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/5. Challenge.md",
+    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md",
     "01_Classes/History/7.from  military to civil networks.md",
     "03_Templates/x_Dataview Table Snippet.md",
     "01_Classes/History/7.from military networks to civil et.md",
@@ -336,15 +339,12 @@
     "03_Templates/1.1.2_Programming Template.md",
     "03_Templates/1.001 OOP template (class).md",
     "03_Templates/1.1.1 Methodology Template.md",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/3. Methods and the role of self.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/2.Object Identity v.s. equality.md",
     "01_Classes/09_Computer_Science_class/1.Python/Startup Checklist(dont delete).md",
     "03_Templates/project templates",
     "01_Classes/01_Psychology/02_week/03_Prospect Theory and Risk.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life/1.Creating multiple object from one class.md",
     "01_Classes/09_Computer_Science_class/1.Python/Untitled.md",
-    "01_Classes/09_Computer_Science_class/1.Python/class cheatsheet.md",
-    "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects/8.Creating your first class.md",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/2.Bringing objects to life",
     "01_Classes/09_Computer_Science_class/8.OOP(PY103)/1.Thinking in objects",
     "Meta/Pasted image 20260629224810.png",
